@@ -33,7 +33,7 @@ Additionally, you can choose between two different services: "Medical" and "Othe
 
 The dashboard is divided into three sections:
 
-1. The Summary Statistics Info: This section displays important statistics for all the selected plans in your chosen year, including:
+1. The Summary Statistics Info: This section displays important statistics for the total amount of all the plans in your chosen year, including:
 
 - Average Claims per Beneficiary
 - Total Beneficiaries
