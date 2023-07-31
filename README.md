@@ -1,9 +1,9 @@
-# PharmaAnalysis
-Welcome to the PharmaAnalysis project repository!
+# HealthAnalysis
+Welcome to the HealthAnalysis project repository!
 
 This dashboard provides data analysis of the PharmCare plan in the BC province, Canada, from 2005 to 2010.
 
-[Link to the PharmaAnalysis](https://eyrexh.shinyapps.io/pharmaanalysis/)
+[Link to the HealthAnalysis](https://eyrexh.shinyapps.io/pharmaanalysis/)
 
 * [Data Description](#data-description)
 * [Dashboard Preview and Description](#dashboard-preview-and-description)
@@ -20,7 +20,7 @@ The raw data for this dashboard is sourced from two datasets provided by the BC 
 
 ## Dashboard Preview and Description
 
-In this dashboard, you can select the year from 2005 to 2010 and choose from the following 7 plans in BC:
+In this dashboard, you can select the year from 2005 to 2010 and choose from the following 7 PharmaCare plans in BC:
 - Fair PharmaCare (Plan I)
 - Permanent Residents of Licensed Residential Care Facilities (Plan B)
 - Recipients of B.C. Income Assistance (Plan C)
@@ -29,23 +29,23 @@ In this dashboard, you can select the year from 2005 to 2010 and choose from the
 - No-Charge Psychiatric Medication Plan (Plan G)
 - Palliative Care Drug Plan (Plan P)
 
-Additionally, you can choose between two different services: "Medical" and "Other Health Practitioners."
+Additionally, you can choose between two different MSP services: "Medical" and "Other Health Practitioners."
 
 The dashboard is divided into three sections:
 
-1. The Summary Statistics Info: This section displays important statistics for the total amount of all the plans in your chosen year, including:
+1. The Summary Statistics Info: This section displays important statistics for the total amount of all the PharmaCare plans in your chosen year, including:
 
 - Average Claims per Beneficiary
 - Total Beneficiaries
 - Total Claims
 - Total Amount Paid
 
-2. The Bar Chart: This chart visualizes the previously mentioned statistics for the chosen year and multiple selected plans. It allows for easy comparison with the total summary statistics info.
+2. The Bar Chart: This chart visualizes the previously mentioned statistics for the chosen year and multiple selected PharmaCare plans. It allows for easy comparison with the total summary statistics info.
 
 3. The Pie Charts: There are two pie charts in this section:
 
-- The first pie chart shows the percentage of patients in different age groups for the chosen year and selected service.
-- The second pie chart displays the percentage of expenditures in different age groups for the chosen year and selected service.
+- The first pie chart shows the percentage of patients in different age groups for the chosen year and selected MSP service.
+- The second pie chart displays the percentage of expenditures in different age groups for the chosen year and selected MSP service.
 
 ## Code of Conduct
 
