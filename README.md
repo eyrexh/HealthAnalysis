@@ -40,7 +40,7 @@ The dashboard is divided into three sections:
 - Total Claims
 - Total Amount Paid
 
-2. The Bar Chart: This chart visualizes the selected statistics for the chosen year and multiple plans. It allows for easy comparison with the total summary statistics info.
+2. The Bar Chart: This chart visualizes the previously mentioned statistics for the chosen year and multiple selected plans. It allows for easy comparison with the total summary statistics info.
 
 3. The Pie Charts: There are two pie charts in this section:
 
