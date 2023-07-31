@@ -51,10 +51,12 @@ ui <- dashboardPage(
       )
     ),
     fluidRow(
-      valueBoxOutput("avgBox"),
-      valueBoxOutput("beneficiaryBox"),
-      valueBoxOutput("claimBox"),
-      valueBoxOutput("paidBox")
+          valueBoxOutput("avgBox"),
+          valueBoxOutput("beneficiaryBox")
+    ),
+    fluidRow( 
+        valueBoxOutput("paidBox"),
+        valueBoxOutput("claimBox")
     ),
     fluidRow(
       plotlyOutput("barChart")
@@ -151,14 +153,15 @@ server <- function(input, output, session) {
     total_patients <- sum(filtered_data$value)
     
     pie_data <- filtered_data %>%
-      mutate(percentage = value/total_patients * 100)
+      mutate(percentage = value/total_patients * 100,
+             age = factor(age, levels = unique(age)))
     
     plot_ly(pie_data, labels = ~age,
             values = ~percentage, type = 'pie',
             textinfo = "label+percent", textposition = "inside",
             insidetextorientation = "radial") %>%
       layout(title = "Percentage of Patients in Each Age Group in This Year",
-             showlegend = TRUE)
+             showlegend = FALSE)
   })
   
   # Create pie count
@@ -171,14 +174,15 @@ server <- function(input, output, session) {
     total_expend <- sum(filtered_data$value)
     
     pie_data <- filtered_data %>%
-      mutate(percentage = value/total_expend * 100)
+      mutate(percentage = value/total_expend * 100,
+             age = factor(age, levels = unique(age)))
     
     plot_ly(pie_data, labels = ~age,
             values = ~percentage, type = 'pie',
             textinfo = "label+percent", textposition = "inside",
             insidetextorientation = "radial") %>%
       layout(title = "Percentage of Expenditures in Each Age Group in This Year",
-             showlegend = TRUE)
+             showlegend = FALSE)
   })
 }
 

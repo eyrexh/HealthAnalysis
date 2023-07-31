@@ -5,7 +5,7 @@ account: eyrexh
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 9530915
-bundleId: 7513187
+bundleId: 7513292
 url: https://eyrexh.shinyapps.io/pharmaanalysis/
-when: 1690777148.74643
-lastSyncTime: 1690777148.74646
+when: 1690781045.53126
+lastSyncTime: 1690781045.53128
