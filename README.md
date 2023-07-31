@@ -52,4 +52,4 @@ The dashboard is divided into three sections:
 As contributors and maintainers of this project, I pledge to foster an open and inclusive environment. I strive to make participation in our project and community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## License
-The PharmaAnalysis Dashboard is licensed under the terms of the MIT license.
+The HealthAnalysis Dashboard is licensed under the terms of the MIT license.
