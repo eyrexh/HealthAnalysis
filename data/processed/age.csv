@@ -1,601 +1,601 @@
-"age","service","type","year","value"
-"<  1","Other Health Practioners","Patient Count","year_2005_2006",393
-"<  1","Other Health Practioners","Patient Count","year_2006_2007",543
-"<  1","Other Health Practioners","Patient Count","year_2007_2008",659
-"<  1","Other Health Practioners","Patient Count","year_2008_2009",826
-"<  1","Other Health Practioners","Patient Count","year_2009_2010",867
-"1 to 4","Other Health Practioners","Patient Count","year_2005_2006",9259
-"1 to 4","Other Health Practioners","Patient Count","year_2006_2007",10514
-"1 to 4","Other Health Practioners","Patient Count","year_2007_2008",11170
-"1 to 4","Other Health Practioners","Patient Count","year_2008_2009",12123
-"1 to 4","Other Health Practioners","Patient Count","year_2009_2010",12326
-"5 to 9","Other Health Practioners","Patient Count","year_2005_2006",31058
-"5 to 9","Other Health Practioners","Patient Count","year_2006_2007",32069
-"5 to 9","Other Health Practioners","Patient Count","year_2007_2008",33171
-"5 to 9","Other Health Practioners","Patient Count","year_2008_2009",35480
-"5 to 9","Other Health Practioners","Patient Count","year_2009_2010",35726
-"10 to 14","Other Health Practioners","Patient Count","year_2005_2006",39330
-"10 to 14","Other Health Practioners","Patient Count","year_2006_2007",39857
-"10 to 14","Other Health Practioners","Patient Count","year_2007_2008",40834
-"10 to 14","Other Health Practioners","Patient Count","year_2008_2009",41875
-"10 to 14","Other Health Practioners","Patient Count","year_2009_2010",41804
-"15 to 19","Other Health Practioners","Patient Count","year_2005_2006",32940
-"15 to 19","Other Health Practioners","Patient Count","year_2006_2007",33622
-"15 to 19","Other Health Practioners","Patient Count","year_2007_2008",33993
-"15 to 19","Other Health Practioners","Patient Count","year_2008_2009",35071
-"15 to 19","Other Health Practioners","Patient Count","year_2009_2010",36270
-"20 to 24","Other Health Practioners","Patient Count","year_2005_2006",8446
-"20 to 24","Other Health Practioners","Patient Count","year_2006_2007",8468
-"20 to 24","Other Health Practioners","Patient Count","year_2007_2008",8117
-"20 to 24","Other Health Practioners","Patient Count","year_2008_2009",8344
-"20 to 24","Other Health Practioners","Patient Count","year_2009_2010",9037
-"25 to 29","Other Health Practioners","Patient Count","year_2005_2006",7257
-"25 to 29","Other Health Practioners","Patient Count","year_2006_2007",7331
-"25 to 29","Other Health Practioners","Patient Count","year_2007_2008",7224
-"25 to 29","Other Health Practioners","Patient Count","year_2008_2009",7657
-"25 to 29","Other Health Practioners","Patient Count","year_2009_2010",8137
-"30 to 34","Other Health Practioners","Patient Count","year_2005_2006",7059
-"30 to 34","Other Health Practioners","Patient Count","year_2006_2007",6886
-"30 to 34","Other Health Practioners","Patient Count","year_2007_2008",6733
-"30 to 34","Other Health Practioners","Patient Count","year_2008_2009",7046
-"30 to 34","Other Health Practioners","Patient Count","year_2009_2010",7619
-"35 to 39","Other Health Practioners","Patient Count","year_2005_2006",8132
-"35 to 39","Other Health Practioners","Patient Count","year_2006_2007",8148
-"35 to 39","Other Health Practioners","Patient Count","year_2007_2008",8028
-"35 to 39","Other Health Practioners","Patient Count","year_2008_2009",8463
-"35 to 39","Other Health Practioners","Patient Count","year_2009_2010",8879
-"40 to 44","Other Health Practioners","Patient Count","year_2005_2006",10785
-"40 to 44","Other Health Practioners","Patient Count","year_2006_2007",10789
-"40 to 44","Other Health Practioners","Patient Count","year_2007_2008",10383
-"40 to 44","Other Health Practioners","Patient Count","year_2008_2009",10804
-"40 to 44","Other Health Practioners","Patient Count","year_2009_2010",11440
-"45 to 49","Other Health Practioners","Patient Count","year_2005_2006",13255
-"45 to 49","Other Health Practioners","Patient Count","year_2006_2007",13451
-"45 to 49","Other Health Practioners","Patient Count","year_2007_2008",13676
-"45 to 49","Other Health Practioners","Patient Count","year_2008_2009",14890
-"45 to 49","Other Health Practioners","Patient Count","year_2009_2010",16231
-"50 to 54","Other Health Practioners","Patient Count","year_2005_2006",14320
-"50 to 54","Other Health Practioners","Patient Count","year_2006_2007",15087
-"50 to 54","Other Health Practioners","Patient Count","year_2007_2008",15420
-"50 to 54","Other Health Practioners","Patient Count","year_2008_2009",16623
-"50 to 54","Other Health Practioners","Patient Count","year_2009_2010",18058
-"55 to 59","Other Health Practioners","Patient Count","year_2005_2006",15634
-"55 to 59","Other Health Practioners","Patient Count","year_2006_2007",16409
-"55 to 59","Other Health Practioners","Patient Count","year_2007_2008",16931
-"55 to 59","Other Health Practioners","Patient Count","year_2008_2009",18103
-"55 to 59","Other Health Practioners","Patient Count","year_2009_2010",19897
-"60 to 64","Other Health Practioners","Patient Count","year_2005_2006",14491
-"60 to 64","Other Health Practioners","Patient Count","year_2006_2007",15832
-"60 to 64","Other Health Practioners","Patient Count","year_2007_2008",17569
-"60 to 64","Other Health Practioners","Patient Count","year_2008_2009",19150
-"60 to 64","Other Health Practioners","Patient Count","year_2009_2010",21726
-"65 to 69","Other Health Practioners","Patient Count","year_2005_2006",24736
-"65 to 69","Other Health Practioners","Patient Count","year_2006_2007",25487
-"65 to 69","Other Health Practioners","Patient Count","year_2007_2008",26726
-"65 to 69","Other Health Practioners","Patient Count","year_2008_2009",28742
-"65 to 69","Other Health Practioners","Patient Count","year_2009_2010",31290
-"70 to 74","Other Health Practioners","Patient Count","year_2005_2006",22663
-"70 to 74","Other Health Practioners","Patient Count","year_2006_2007",22899
-"70 to 74","Other Health Practioners","Patient Count","year_2007_2008",23443
-"70 to 74","Other Health Practioners","Patient Count","year_2008_2009",24386
-"70 to 74","Other Health Practioners","Patient Count","year_2009_2010",25745
-"75 to 79","Other Health Practioners","Patient Count","year_2005_2006",18968
-"75 to 79","Other Health Practioners","Patient Count","year_2006_2007",19507
-"75 to 79","Other Health Practioners","Patient Count","year_2007_2008",19854
-"75 to 79","Other Health Practioners","Patient Count","year_2008_2009",20825
-"75 to 79","Other Health Practioners","Patient Count","year_2009_2010",21812
-"80 to 84","Other Health Practioners","Patient Count","year_2005_2006",13105
-"80 to 84","Other Health Practioners","Patient Count","year_2006_2007",13278
-"80 to 84","Other Health Practioners","Patient Count","year_2007_2008",13562
-"80 to 84","Other Health Practioners","Patient Count","year_2008_2009",14084
-"80 to 84","Other Health Practioners","Patient Count","year_2009_2010",14940
-"85 to 89","Other Health Practioners","Patient Count","year_2005_2006",6273
-"85 to 89","Other Health Practioners","Patient Count","year_2006_2007",6696
-"85 to 89","Other Health Practioners","Patient Count","year_2007_2008",7156
-"85 to 89","Other Health Practioners","Patient Count","year_2008_2009",7756
-"85 to 89","Other Health Practioners","Patient Count","year_2009_2010",8152
-"90+","Other Health Practioners","Patient Count","year_2005_2006",2562
-"90+","Other Health Practioners","Patient Count","year_2006_2007",2581
-"90+","Other Health Practioners","Patient Count","year_2007_2008",2663
-"90+","Other Health Practioners","Patient Count","year_2008_2009",2693
-"90+","Other Health Practioners","Patient Count","year_2009_2010",2873
-"<  1","Other Health Practioners","Services","year_2005_2006",700
-"<  1","Other Health Practioners","Services","year_2006_2007",940
-"<  1","Other Health Practioners","Services","year_2007_2008",1025
-"<  1","Other Health Practioners","Services","year_2008_2009",1155
-"<  1","Other Health Practioners","Services","year_2009_2010",1220
-"1 to 4","Other Health Practioners","Services","year_2005_2006",12071
-"1 to 4","Other Health Practioners","Services","year_2006_2007",13091
-"1 to 4","Other Health Practioners","Services","year_2007_2008",13556
-"1 to 4","Other Health Practioners","Services","year_2008_2009",15403
-"1 to 4","Other Health Practioners","Services","year_2009_2010",15801
-"5 to 9","Other Health Practioners","Services","year_2005_2006",38778
-"5 to 9","Other Health Practioners","Services","year_2006_2007",39641
-"5 to 9","Other Health Practioners","Services","year_2007_2008",40237
-"5 to 9","Other Health Practioners","Services","year_2008_2009",44537
-"5 to 9","Other Health Practioners","Services","year_2009_2010",45330
-"10 to 14","Other Health Practioners","Services","year_2005_2006",51270
-"10 to 14","Other Health Practioners","Services","year_2006_2007",51489
-"10 to 14","Other Health Practioners","Services","year_2007_2008",51637
-"10 to 14","Other Health Practioners","Services","year_2008_2009",55034
-"10 to 14","Other Health Practioners","Services","year_2009_2010",56531
-"15 to 19","Other Health Practioners","Services","year_2005_2006",49685
-"15 to 19","Other Health Practioners","Services","year_2006_2007",50243
-"15 to 19","Other Health Practioners","Services","year_2007_2008",49422
-"15 to 19","Other Health Practioners","Services","year_2008_2009",52511
-"15 to 19","Other Health Practioners","Services","year_2009_2010",55971
-"20 to 24","Other Health Practioners","Services","year_2005_2006",30243
-"20 to 24","Other Health Practioners","Services","year_2006_2007",28896
-"20 to 24","Other Health Practioners","Services","year_2007_2008",27245
-"20 to 24","Other Health Practioners","Services","year_2008_2009",27675
-"20 to 24","Other Health Practioners","Services","year_2009_2010",30876
-"25 to 29","Other Health Practioners","Services","year_2005_2006",26274
-"25 to 29","Other Health Practioners","Services","year_2006_2007",25506
-"25 to 29","Other Health Practioners","Services","year_2007_2008",24184
-"25 to 29","Other Health Practioners","Services","year_2008_2009",25627
-"25 to 29","Other Health Practioners","Services","year_2009_2010",26648
-"30 to 34","Other Health Practioners","Services","year_2005_2006",24820
-"30 to 34","Other Health Practioners","Services","year_2006_2007",22958
-"30 to 34","Other Health Practioners","Services","year_2007_2008",21487
-"30 to 34","Other Health Practioners","Services","year_2008_2009",22063
-"30 to 34","Other Health Practioners","Services","year_2009_2010",23819
-"35 to 39","Other Health Practioners","Services","year_2005_2006",27522
-"35 to 39","Other Health Practioners","Services","year_2006_2007",26441
-"35 to 39","Other Health Practioners","Services","year_2007_2008",24876
-"35 to 39","Other Health Practioners","Services","year_2008_2009",26115
-"35 to 39","Other Health Practioners","Services","year_2009_2010",27519
-"40 to 44","Other Health Practioners","Services","year_2005_2006",34116
-"40 to 44","Other Health Practioners","Services","year_2006_2007",32988
-"40 to 44","Other Health Practioners","Services","year_2007_2008",30423
-"40 to 44","Other Health Practioners","Services","year_2008_2009",32907
-"40 to 44","Other Health Practioners","Services","year_2009_2010",35024
-"45 to 49","Other Health Practioners","Services","year_2005_2006",38216
-"45 to 49","Other Health Practioners","Services","year_2006_2007",37435
-"45 to 49","Other Health Practioners","Services","year_2007_2008",35655
-"45 to 49","Other Health Practioners","Services","year_2008_2009",40051
-"45 to 49","Other Health Practioners","Services","year_2009_2010",46517
-"50 to 54","Other Health Practioners","Services","year_2005_2006",38315
-"50 to 54","Other Health Practioners","Services","year_2006_2007",38318
-"50 to 54","Other Health Practioners","Services","year_2007_2008",38653
-"50 to 54","Other Health Practioners","Services","year_2008_2009",42379
-"50 to 54","Other Health Practioners","Services","year_2009_2010",46443
-"55 to 59","Other Health Practioners","Services","year_2005_2006",37772
-"55 to 59","Other Health Practioners","Services","year_2006_2007",38775
-"55 to 59","Other Health Practioners","Services","year_2007_2008",39257
-"55 to 59","Other Health Practioners","Services","year_2008_2009",41368
-"55 to 59","Other Health Practioners","Services","year_2009_2010",47079
-"60 to 64","Other Health Practioners","Services","year_2005_2006",32662
-"60 to 64","Other Health Practioners","Services","year_2006_2007",34720
-"60 to 64","Other Health Practioners","Services","year_2007_2008",37080
-"60 to 64","Other Health Practioners","Services","year_2008_2009",40909
-"60 to 64","Other Health Practioners","Services","year_2009_2010",47277
-"65 to 69","Other Health Practioners","Services","year_2005_2006",47710
-"65 to 69","Other Health Practioners","Services","year_2006_2007",47379
-"65 to 69","Other Health Practioners","Services","year_2007_2008",48614
-"65 to 69","Other Health Practioners","Services","year_2008_2009",52851
-"65 to 69","Other Health Practioners","Services","year_2009_2010",58724
-"70 to 74","Other Health Practioners","Services","year_2005_2006",46294
-"70 to 74","Other Health Practioners","Services","year_2006_2007",45984
-"70 to 74","Other Health Practioners","Services","year_2007_2008",45385
-"70 to 74","Other Health Practioners","Services","year_2008_2009",48435
-"70 to 74","Other Health Practioners","Services","year_2009_2010",51506
-"75 to 79","Other Health Practioners","Services","year_2005_2006",41221
-"75 to 79","Other Health Practioners","Services","year_2006_2007",41673
-"75 to 79","Other Health Practioners","Services","year_2007_2008",41310
-"75 to 79","Other Health Practioners","Services","year_2008_2009",43667
-"75 to 79","Other Health Practioners","Services","year_2009_2010",47040
-"80 to 84","Other Health Practioners","Services","year_2005_2006",30419
-"80 to 84","Other Health Practioners","Services","year_2006_2007",30262
-"80 to 84","Other Health Practioners","Services","year_2007_2008",29862
-"80 to 84","Other Health Practioners","Services","year_2008_2009",31793
-"80 to 84","Other Health Practioners","Services","year_2009_2010",33481
-"85 to 89","Other Health Practioners","Services","year_2005_2006",15621
-"85 to 89","Other Health Practioners","Services","year_2006_2007",16289
-"85 to 89","Other Health Practioners","Services","year_2007_2008",16869
-"85 to 89","Other Health Practioners","Services","year_2008_2009",18082
-"85 to 89","Other Health Practioners","Services","year_2009_2010",18957
-"90+","Other Health Practioners","Services","year_2005_2006",6781
-"90+","Other Health Practioners","Services","year_2006_2007",6730
-"90+","Other Health Practioners","Services","year_2007_2008",6856
-"90+","Other Health Practioners","Services","year_2008_2009",6830
-"90+","Other Health Practioners","Services","year_2009_2010",7199
-"<  1","Other Health Practioners","Expenditures","year_2005_2006",54646.04
-"<  1","Other Health Practioners","Expenditures","year_2006_2007",62928.78
-"<  1","Other Health Practioners","Expenditures","year_2007_2008",53730.58
-"<  1","Other Health Practioners","Expenditures","year_2008_2009",100717.3
-"<  1","Other Health Practioners","Expenditures","year_2009_2010",94412.75
-"1 to 4","Other Health Practioners","Expenditures","year_2005_2006",487587.71
-"1 to 4","Other Health Practioners","Expenditures","year_2006_2007",541773.79
-"1 to 4","Other Health Practioners","Expenditures","year_2007_2008",567506.22
-"1 to 4","Other Health Practioners","Expenditures","year_2008_2009",646643.65
-"1 to 4","Other Health Practioners","Expenditures","year_2009_2010",686597.77
-"5 to 9","Other Health Practioners","Expenditures","year_2005_2006",1705877.4
-"5 to 9","Other Health Practioners","Expenditures","year_2006_2007",1740210.94
-"5 to 9","Other Health Practioners","Expenditures","year_2007_2008",1755555.5
-"5 to 9","Other Health Practioners","Expenditures","year_2008_2009",1943349.07
-"5 to 9","Other Health Practioners","Expenditures","year_2009_2010",2075709.17
-"10 to 14","Other Health Practioners","Expenditures","year_2005_2006",2390536.51
-"10 to 14","Other Health Practioners","Expenditures","year_2006_2007",2372163.28
-"10 to 14","Other Health Practioners","Expenditures","year_2007_2008",2421658.3
-"10 to 14","Other Health Practioners","Expenditures","year_2008_2009",2573858.68
-"10 to 14","Other Health Practioners","Expenditures","year_2009_2010",2708048.1
-"15 to 19","Other Health Practioners","Expenditures","year_2005_2006",2365916.22
-"15 to 19","Other Health Practioners","Expenditures","year_2006_2007",2433321.14
-"15 to 19","Other Health Practioners","Expenditures","year_2007_2008",2482541.92
-"15 to 19","Other Health Practioners","Expenditures","year_2008_2009",2697721.01
-"15 to 19","Other Health Practioners","Expenditures","year_2009_2010",2871807.63
-"20 to 24","Other Health Practioners","Expenditures","year_2005_2006",1074251.71
-"20 to 24","Other Health Practioners","Expenditures","year_2006_2007",1018142.5
-"20 to 24","Other Health Practioners","Expenditures","year_2007_2008",1061413
-"20 to 24","Other Health Practioners","Expenditures","year_2008_2009",1067678.46
-"20 to 24","Other Health Practioners","Expenditures","year_2009_2010",1270620.02
-"25 to 29","Other Health Practioners","Expenditures","year_2005_2006",798573.42
-"25 to 29","Other Health Practioners","Expenditures","year_2006_2007",779586.57
-"25 to 29","Other Health Practioners","Expenditures","year_2007_2008",775511.98
-"25 to 29","Other Health Practioners","Expenditures","year_2008_2009",882484.53
-"25 to 29","Other Health Practioners","Expenditures","year_2009_2010",966142.41
-"30 to 34","Other Health Practioners","Expenditures","year_2005_2006",753175.39
-"30 to 34","Other Health Practioners","Expenditures","year_2006_2007",727230.23
-"30 to 34","Other Health Practioners","Expenditures","year_2007_2008",682637.46
-"30 to 34","Other Health Practioners","Expenditures","year_2008_2009",734122.08
-"30 to 34","Other Health Practioners","Expenditures","year_2009_2010",798464.01
-"35 to 39","Other Health Practioners","Expenditures","year_2005_2006",883316.83
-"35 to 39","Other Health Practioners","Expenditures","year_2006_2007",844115.48
-"35 to 39","Other Health Practioners","Expenditures","year_2007_2008",804732.35
-"35 to 39","Other Health Practioners","Expenditures","year_2008_2009",870387.57
-"35 to 39","Other Health Practioners","Expenditures","year_2009_2010",933651.92
-"40 to 44","Other Health Practioners","Expenditures","year_2005_2006",1059349.69
-"40 to 44","Other Health Practioners","Expenditures","year_2006_2007",1057271.09
-"40 to 44","Other Health Practioners","Expenditures","year_2007_2008",994485.98
-"40 to 44","Other Health Practioners","Expenditures","year_2008_2009",1085233.81
-"40 to 44","Other Health Practioners","Expenditures","year_2009_2010",1172689.6
-"45 to 49","Other Health Practioners","Expenditures","year_2005_2006",1220703.8
-"45 to 49","Other Health Practioners","Expenditures","year_2006_2007",1233361.52
-"45 to 49","Other Health Practioners","Expenditures","year_2007_2008",1173870.78
-"45 to 49","Other Health Practioners","Expenditures","year_2008_2009",1355664.46
-"45 to 49","Other Health Practioners","Expenditures","year_2009_2010",1629033.1
-"50 to 54","Other Health Practioners","Expenditures","year_2005_2006",1220831.29
-"50 to 54","Other Health Practioners","Expenditures","year_2006_2007",1270413.75
-"50 to 54","Other Health Practioners","Expenditures","year_2007_2008",1312009.16
-"50 to 54","Other Health Practioners","Expenditures","year_2008_2009",1457315.99
-"50 to 54","Other Health Practioners","Expenditures","year_2009_2010",1609019.79
-"55 to 59","Other Health Practioners","Expenditures","year_2005_2006",1235369.02
-"55 to 59","Other Health Practioners","Expenditures","year_2006_2007",1310757.03
-"55 to 59","Other Health Practioners","Expenditures","year_2007_2008",1316587.44
-"55 to 59","Other Health Practioners","Expenditures","year_2008_2009",1443823.24
-"55 to 59","Other Health Practioners","Expenditures","year_2009_2010",1661421.38
-"60 to 64","Other Health Practioners","Expenditures","year_2005_2006",1081969.91
-"60 to 64","Other Health Practioners","Expenditures","year_2006_2007",1171856.04
-"60 to 64","Other Health Practioners","Expenditures","year_2007_2008",1283315.24
-"60 to 64","Other Health Practioners","Expenditures","year_2008_2009",1436782.6
-"60 to 64","Other Health Practioners","Expenditures","year_2009_2010",1736559.75
-"65 to 69","Other Health Practioners","Expenditures","year_2005_2006",1670424.87
-"65 to 69","Other Health Practioners","Expenditures","year_2006_2007",1677483.02
-"65 to 69","Other Health Practioners","Expenditures","year_2007_2008",1751376.06
-"65 to 69","Other Health Practioners","Expenditures","year_2008_2009",1922973.96
-"65 to 69","Other Health Practioners","Expenditures","year_2009_2010",2219747.07
-"70 to 74","Other Health Practioners","Expenditures","year_2005_2006",1584665.39
-"70 to 74","Other Health Practioners","Expenditures","year_2006_2007",1584155.01
-"70 to 74","Other Health Practioners","Expenditures","year_2007_2008",1596522.4
-"70 to 74","Other Health Practioners","Expenditures","year_2008_2009",1707875.41
-"70 to 74","Other Health Practioners","Expenditures","year_2009_2010",1865488.87
-"75 to 79","Other Health Practioners","Expenditures","year_2005_2006",1380814.98
-"75 to 79","Other Health Practioners","Expenditures","year_2006_2007",1423522.82
-"75 to 79","Other Health Practioners","Expenditures","year_2007_2008",1425183.43
-"75 to 79","Other Health Practioners","Expenditures","year_2008_2009",1522993.23
-"75 to 79","Other Health Practioners","Expenditures","year_2009_2010",1689093.41
-"80 to 84","Other Health Practioners","Expenditures","year_2005_2006",994181.43
-"80 to 84","Other Health Practioners","Expenditures","year_2006_2007",1005920.23
-"80 to 84","Other Health Practioners","Expenditures","year_2007_2008",1002539.45
-"80 to 84","Other Health Practioners","Expenditures","year_2008_2009",1097549.28
-"80 to 84","Other Health Practioners","Expenditures","year_2009_2010",1175103.76
-"85 to 89","Other Health Practioners","Expenditures","year_2005_2006",494248.74
-"85 to 89","Other Health Practioners","Expenditures","year_2006_2007",527282.69
-"85 to 89","Other Health Practioners","Expenditures","year_2007_2008",557244.86
-"85 to 89","Other Health Practioners","Expenditures","year_2008_2009",608069.09
-"85 to 89","Other Health Practioners","Expenditures","year_2009_2010",653545.97
-"90+","Other Health Practioners","Expenditures","year_2005_2006",202201.93
-"90+","Other Health Practioners","Expenditures","year_2006_2007",203481.56
-"90+","Other Health Practioners","Expenditures","year_2007_2008",210523.5
-"90+","Other Health Practioners","Expenditures","year_2008_2009",218553.5
-"90+","Other Health Practioners","Expenditures","year_2009_2010",247157.21
-"<  1","Medical","Patient Count","year_2005_2006",28740
-"<  1","Medical","Patient Count","year_2006_2007",29893
-"<  1","Medical","Patient Count","year_2007_2008",31371
-"<  1","Medical","Patient Count","year_2008_2009",32055
-"<  1","Medical","Patient Count","year_2009_2010",32243
-"1 to 4","Medical","Patient Count","year_2005_2006",75981
-"1 to 4","Medical","Patient Count","year_2006_2007",75510
-"1 to 4","Medical","Patient Count","year_2007_2008",76088
-"1 to 4","Medical","Patient Count","year_2008_2009",77240
-"1 to 4","Medical","Patient Count","year_2009_2010",80088
-"5 to 9","Medical","Patient Count","year_2005_2006",93786
-"5 to 9","Medical","Patient Count","year_2006_2007",89533
-"5 to 9","Medical","Patient Count","year_2007_2008",88723
-"5 to 9","Medical","Patient Count","year_2008_2009",87617
-"5 to 9","Medical","Patient Count","year_2009_2010",90427
-"10 to 14","Medical","Patient Count","year_2005_2006",100804
-"10 to 14","Medical","Patient Count","year_2006_2007",97341
-"10 to 14","Medical","Patient Count","year_2007_2008",95776
-"10 to 14","Medical","Patient Count","year_2008_2009",94258
-"10 to 14","Medical","Patient Count","year_2009_2010",95280
-"15 to 19","Medical","Patient Count","year_2005_2006",104564
-"15 to 19","Medical","Patient Count","year_2006_2007",103005
-"15 to 19","Medical","Patient Count","year_2007_2008",102605
-"15 to 19","Medical","Patient Count","year_2008_2009",102735
-"15 to 19","Medical","Patient Count","year_2009_2010",105372
-"20 to 24","Medical","Patient Count","year_2005_2006",98064
-"20 to 24","Medical","Patient Count","year_2006_2007",98734
-"20 to 24","Medical","Patient Count","year_2007_2008",98379
-"20 to 24","Medical","Patient Count","year_2008_2009",98830
-"20 to 24","Medical","Patient Count","year_2009_2010",100809
-"25 to 29","Medical","Patient Count","year_2005_2006",89710
-"25 to 29","Medical","Patient Count","year_2006_2007",91627
-"25 to 29","Medical","Patient Count","year_2007_2008",94538
-"25 to 29","Medical","Patient Count","year_2008_2009",97974
-"25 to 29","Medical","Patient Count","year_2009_2010",102732
-"30 to 34","Medical","Patient Count","year_2005_2006",96982
-"30 to 34","Medical","Patient Count","year_2006_2007",95558
-"30 to 34","Medical","Patient Count","year_2007_2008",95660
-"30 to 34","Medical","Patient Count","year_2008_2009",97118
-"30 to 34","Medical","Patient Count","year_2009_2010",100381
-"35 to 39","Medical","Patient Count","year_2005_2006",111288
-"35 to 39","Medical","Patient Count","year_2006_2007",111171
-"35 to 39","Medical","Patient Count","year_2007_2008",111079
-"35 to 39","Medical","Patient Count","year_2008_2009",110417
-"35 to 39","Medical","Patient Count","year_2009_2010",110236
-"40 to 44","Medical","Patient Count","year_2005_2006",130556
-"40 to 44","Medical","Patient Count","year_2006_2007",127658
-"40 to 44","Medical","Patient Count","year_2007_2008",124853
-"40 to 44","Medical","Patient Count","year_2008_2009",121809
-"40 to 44","Medical","Patient Count","year_2009_2010",120891
-"45 to 49","Medical","Patient Count","year_2005_2006",132462
-"45 to 49","Medical","Patient Count","year_2006_2007",133866
-"45 to 49","Medical","Patient Count","year_2007_2008",136718
-"45 to 49","Medical","Patient Count","year_2008_2009",138416
-"45 to 49","Medical","Patient Count","year_2009_2010",140240
-"50 to 54","Medical","Patient Count","year_2005_2006",127289
-"50 to 54","Medical","Patient Count","year_2006_2007",130461
-"50 to 54","Medical","Patient Count","year_2007_2008",133450
-"50 to 54","Medical","Patient Count","year_2008_2009",136470
-"50 to 54","Medical","Patient Count","year_2009_2010",139243
-"55 to 59","Medical","Patient Count","year_2005_2006",119509
-"55 to 59","Medical","Patient Count","year_2006_2007",123113
-"55 to 59","Medical","Patient Count","year_2007_2008",124170
-"55 to 59","Medical","Patient Count","year_2008_2009",126779
-"55 to 59","Medical","Patient Count","year_2009_2010",130188
-"60 to 64","Medical","Patient Count","year_2005_2006",92250
-"60 to 64","Medical","Patient Count","year_2006_2007",97773
-"60 to 64","Medical","Patient Count","year_2007_2008",105805
-"60 to 64","Medical","Patient Count","year_2008_2009",111684
-"60 to 64","Medical","Patient Count","year_2009_2010",117486
-"65 to 69","Medical","Patient Count","year_2005_2006",75123
-"65 to 69","Medical","Patient Count","year_2006_2007",77433
-"65 to 69","Medical","Patient Count","year_2007_2008",81319
-"65 to 69","Medical","Patient Count","year_2008_2009",85510
-"65 to 69","Medical","Patient Count","year_2009_2010",89801
-"70 to 74","Medical","Patient Count","year_2005_2006",65400
-"70 to 74","Medical","Patient Count","year_2006_2007",65958
-"70 to 74","Medical","Patient Count","year_2007_2008",66636
-"70 to 74","Medical","Patient Count","year_2008_2009",67810
-"70 to 74","Medical","Patient Count","year_2009_2010",69414
-"75 to 79","Medical","Patient Count","year_2005_2006",52300
-"75 to 79","Medical","Patient Count","year_2006_2007",54203
-"75 to 79","Medical","Patient Count","year_2007_2008",55323
-"75 to 79","Medical","Patient Count","year_2008_2009",56450
-"75 to 79","Medical","Patient Count","year_2009_2010",57074
-"80 to 84","Medical","Patient Count","year_2005_2006",35248
-"80 to 84","Medical","Patient Count","year_2006_2007",35781
-"80 to 84","Medical","Patient Count","year_2007_2008",36734
-"80 to 84","Medical","Patient Count","year_2008_2009",37860
-"80 to 84","Medical","Patient Count","year_2009_2010",39091
-"85 to 89","Medical","Patient Count","year_2005_2006",17211
-"85 to 89","Medical","Patient Count","year_2006_2007",18582
-"85 to 89","Medical","Patient Count","year_2007_2008",19652
-"85 to 89","Medical","Patient Count","year_2008_2009",20877
-"85 to 89","Medical","Patient Count","year_2009_2010",21914
-"90+","Medical","Patient Count","year_2005_2006",7699
-"90+","Medical","Patient Count","year_2006_2007",7995
-"90+","Medical","Patient Count","year_2007_2008",8223
-"90+","Medical","Patient Count","year_2008_2009",8528
-"90+","Medical","Patient Count","year_2009_2010",8861
-"<  1","Medical","Services","year_2005_2006",308815
-"<  1","Medical","Services","year_2006_2007",370375
-"<  1","Medical","Services","year_2007_2008",430768
-"<  1","Medical","Services","year_2008_2009",447664
-"<  1","Medical","Services","year_2009_2010",435047
-"1 to 4","Medical","Services","year_2005_2006",641346
-"1 to 4","Medical","Services","year_2006_2007",623358
-"1 to 4","Medical","Services","year_2007_2008",653511
-"1 to 4","Medical","Services","year_2008_2009",660244
-"1 to 4","Medical","Services","year_2009_2010",697580
-"5 to 9","Medical","Services","year_2005_2006",649219
-"5 to 9","Medical","Services","year_2006_2007",590309
-"5 to 9","Medical","Services","year_2007_2008",598802
-"5 to 9","Medical","Services","year_2008_2009",595308
-"5 to 9","Medical","Services","year_2009_2010",625568
-"10 to 14","Medical","Services","year_2005_2006",658483
-"10 to 14","Medical","Services","year_2006_2007",634715
-"10 to 14","Medical","Services","year_2007_2008",630140
-"10 to 14","Medical","Services","year_2008_2009",639260
-"10 to 14","Medical","Services","year_2009_2010",647234
-"15 to 19","Medical","Services","year_2005_2006",771983
-"15 to 19","Medical","Services","year_2006_2007",769984
-"15 to 19","Medical","Services","year_2007_2008",768587
-"15 to 19","Medical","Services","year_2008_2009",804563
-"15 to 19","Medical","Services","year_2009_2010",833680
-"20 to 24","Medical","Services","year_2005_2006",809094
-"20 to 24","Medical","Services","year_2006_2007",818153
-"20 to 24","Medical","Services","year_2007_2008",813267
-"20 to 24","Medical","Services","year_2008_2009",836802
-"20 to 24","Medical","Services","year_2009_2010",865300
-"25 to 29","Medical","Services","year_2005_2006",884390
-"25 to 29","Medical","Services","year_2006_2007",912886
-"25 to 29","Medical","Services","year_2007_2008",923434
-"25 to 29","Medical","Services","year_2008_2009",980676
-"25 to 29","Medical","Services","year_2009_2010",1016025
-"30 to 34","Medical","Services","year_2005_2006",1081185
-"30 to 34","Medical","Services","year_2006_2007",1082296
-"30 to 34","Medical","Services","year_2007_2008",1070754
-"30 to 34","Medical","Services","year_2008_2009",1139736
-"30 to 34","Medical","Services","year_2009_2010",1190064
-"35 to 39","Medical","Services","year_2005_2006",1447069
-"35 to 39","Medical","Services","year_2006_2007",1453239
-"35 to 39","Medical","Services","year_2007_2008",1440707
-"35 to 39","Medical","Services","year_2008_2009",1466313
-"35 to 39","Medical","Services","year_2009_2010",1488934
-"40 to 44","Medical","Services","year_2005_2006",1972601
-"40 to 44","Medical","Services","year_2006_2007",1961088
-"40 to 44","Medical","Services","year_2007_2008",1938786
-"40 to 44","Medical","Services","year_2008_2009",1953058
-"40 to 44","Medical","Services","year_2009_2010",1945571
-"45 to 49","Medical","Services","year_2005_2006",2327957
-"45 to 49","Medical","Services","year_2006_2007",2384998
-"45 to 49","Medical","Services","year_2007_2008",2462181
-"45 to 49","Medical","Services","year_2008_2009",2561353
-"45 to 49","Medical","Services","year_2009_2010",2625341
-"50 to 54","Medical","Services","year_2005_2006",2699167
-"50 to 54","Medical","Services","year_2006_2007",2806718
-"50 to 54","Medical","Services","year_2007_2008",2907161
-"50 to 54","Medical","Services","year_2008_2009",3052428
-"50 to 54","Medical","Services","year_2009_2010",3105393
-"55 to 59","Medical","Services","year_2005_2006",2937275
-"55 to 59","Medical","Services","year_2006_2007",3101529
-"55 to 59","Medical","Services","year_2007_2008",3219126
-"55 to 59","Medical","Services","year_2008_2009",3347588
-"55 to 59","Medical","Services","year_2009_2010",3459485
-"60 to 64","Medical","Services","year_2005_2006",2674223
-"60 to 64","Medical","Services","year_2006_2007",2901640
-"60 to 64","Medical","Services","year_2007_2008",3213319
-"60 to 64","Medical","Services","year_2008_2009",3478698
-"60 to 64","Medical","Services","year_2009_2010",3695210
-"65 to 69","Medical","Services","year_2005_2006",2570796
-"65 to 69","Medical","Services","year_2006_2007",2745467
-"65 to 69","Medical","Services","year_2007_2008",2964317
-"65 to 69","Medical","Services","year_2008_2009",3161636
-"65 to 69","Medical","Services","year_2009_2010",3321355
-"70 to 74","Medical","Services","year_2005_2006",2610548
-"70 to 74","Medical","Services","year_2006_2007",2724360
-"70 to 74","Medical","Services","year_2007_2008",2832796
-"70 to 74","Medical","Services","year_2008_2009",2934615
-"70 to 74","Medical","Services","year_2009_2010",3021398
-"75 to 79","Medical","Services","year_2005_2006",2391944
-"75 to 79","Medical","Services","year_2006_2007",2559686
-"75 to 79","Medical","Services","year_2007_2008",2683477
-"75 to 79","Medical","Services","year_2008_2009",2784690
-"75 to 79","Medical","Services","year_2009_2010",2836811
-"80 to 84","Medical","Services","year_2005_2006",1676372
-"80 to 84","Medical","Services","year_2006_2007",1783333
-"80 to 84","Medical","Services","year_2007_2008",1893516
-"80 to 84","Medical","Services","year_2008_2009",1984331
-"80 to 84","Medical","Services","year_2009_2010",2066929
-"85 to 89","Medical","Services","year_2005_2006",806781
-"85 to 89","Medical","Services","year_2006_2007",914014
-"85 to 89","Medical","Services","year_2007_2008",991996
-"85 to 89","Medical","Services","year_2008_2009",1088269
-"85 to 89","Medical","Services","year_2009_2010",1165093
-"90+","Medical","Services","year_2005_2006",307033
-"90+","Medical","Services","year_2006_2007",330615
-"90+","Medical","Services","year_2007_2008",357946
-"90+","Medical","Services","year_2008_2009",382026
-"90+","Medical","Services","year_2009_2010",414957
-"<  1","Medical","Expenditures","year_2005_2006",13962744.5
-"<  1","Medical","Expenditures","year_2006_2007",18779495.87
-"<  1","Medical","Expenditures","year_2007_2008",20857401.76
-"<  1","Medical","Expenditures","year_2008_2009",22162149.44
-"<  1","Medical","Expenditures","year_2009_2010",22906213.64
-"1 to 4","Medical","Expenditures","year_2005_2006",22706080.96
-"1 to 4","Medical","Expenditures","year_2006_2007",23478933.79
-"1 to 4","Medical","Expenditures","year_2007_2008",24302980.56
-"1 to 4","Medical","Expenditures","year_2008_2009",24777584.64
-"1 to 4","Medical","Expenditures","year_2009_2010",26161905.51
-"5 to 9","Medical","Expenditures","year_2005_2006",22862224.86
-"5 to 9","Medical","Expenditures","year_2006_2007",22160496.45
-"5 to 9","Medical","Expenditures","year_2007_2008",22969916.28
-"5 to 9","Medical","Expenditures","year_2008_2009",23209249.24
-"5 to 9","Medical","Expenditures","year_2009_2010",24269530.97
-"10 to 14","Medical","Expenditures","year_2005_2006",23070088.4
-"10 to 14","Medical","Expenditures","year_2006_2007",23409503.9
-"10 to 14","Medical","Expenditures","year_2007_2008",23775447.12
-"10 to 14","Medical","Expenditures","year_2008_2009",24129678.52
-"10 to 14","Medical","Expenditures","year_2009_2010",24332384.4
-"15 to 19","Medical","Expenditures","year_2005_2006",25881126.05
-"15 to 19","Medical","Expenditures","year_2006_2007",26800723.14
-"15 to 19","Medical","Expenditures","year_2007_2008",27120237.7
-"15 to 19","Medical","Expenditures","year_2008_2009",28146853.37
-"15 to 19","Medical","Expenditures","year_2009_2010",29475272.19
-"20 to 24","Medical","Expenditures","year_2005_2006",25714435.48
-"20 to 24","Medical","Expenditures","year_2006_2007",26999907.48
-"20 to 24","Medical","Expenditures","year_2007_2008",27596266.24
-"20 to 24","Medical","Expenditures","year_2008_2009",28415744.6
-"20 to 24","Medical","Expenditures","year_2009_2010",29795171.87
-"25 to 29","Medical","Expenditures","year_2005_2006",25987525.64
-"25 to 29","Medical","Expenditures","year_2006_2007",27628704.95
-"25 to 29","Medical","Expenditures","year_2007_2008",29032102.03
-"25 to 29","Medical","Expenditures","year_2008_2009",31193096.47
-"25 to 29","Medical","Expenditures","year_2009_2010",32553579.43
-"30 to 34","Medical","Expenditures","year_2005_2006",30920281.89
-"30 to 34","Medical","Expenditures","year_2006_2007",31778915.79
-"30 to 34","Medical","Expenditures","year_2007_2008",32247146.84
-"30 to 34","Medical","Expenditures","year_2008_2009",33950633
-"30 to 34","Medical","Expenditures","year_2009_2010",35913792.24
-"35 to 39","Medical","Expenditures","year_2005_2006",40267372.68
-"35 to 39","Medical","Expenditures","year_2006_2007",41406332.89
-"35 to 39","Medical","Expenditures","year_2007_2008",41805492.19
-"35 to 39","Medical","Expenditures","year_2008_2009",42594792.85
-"35 to 39","Medical","Expenditures","year_2009_2010",43402664.86
-"40 to 44","Medical","Expenditures","year_2005_2006",52666350.95
-"40 to 44","Medical","Expenditures","year_2006_2007",53158661
-"40 to 44","Medical","Expenditures","year_2007_2008",52701191.72
-"40 to 44","Medical","Expenditures","year_2008_2009",53287681.86
-"40 to 44","Medical","Expenditures","year_2009_2010",53554821.08
-"45 to 49","Medical","Expenditures","year_2005_2006",60374231.43
-"45 to 49","Medical","Expenditures","year_2006_2007",63677879.94
-"45 to 49","Medical","Expenditures","year_2007_2008",65630269.32
-"45 to 49","Medical","Expenditures","year_2008_2009",68249162.05
-"45 to 49","Medical","Expenditures","year_2009_2010",70754867.21
-"50 to 54","Medical","Expenditures","year_2005_2006",69604621.92
-"50 to 54","Medical","Expenditures","year_2006_2007",73177951.68
-"50 to 54","Medical","Expenditures","year_2007_2008",75766186.77
-"50 to 54","Medical","Expenditures","year_2008_2009",80890739.85
-"50 to 54","Medical","Expenditures","year_2009_2010",84543494.97
-"55 to 59","Medical","Expenditures","year_2005_2006",76843782.69
-"55 to 59","Medical","Expenditures","year_2006_2007",81553322.17
-"55 to 59","Medical","Expenditures","year_2007_2008",84476505.64
-"55 to 59","Medical","Expenditures","year_2008_2009",89003844.85
-"55 to 59","Medical","Expenditures","year_2009_2010",93780172.23
-"60 to 64","Medical","Expenditures","year_2005_2006",73508918.14
-"60 to 64","Medical","Expenditures","year_2006_2007",80272080.71
-"60 to 64","Medical","Expenditures","year_2007_2008",88212311.66
-"60 to 64","Medical","Expenditures","year_2008_2009",95705537.82
-"60 to 64","Medical","Expenditures","year_2009_2010",102647817.3
-"65 to 69","Medical","Expenditures","year_2005_2006",71701878.53
-"65 to 69","Medical","Expenditures","year_2006_2007",76299368.01
-"65 to 69","Medical","Expenditures","year_2007_2008",82625379.02
-"65 to 69","Medical","Expenditures","year_2008_2009",88046484.28
-"65 to 69","Medical","Expenditures","year_2009_2010",93009639.68
-"70 to 74","Medical","Expenditures","year_2005_2006",75642675.59
-"70 to 74","Medical","Expenditures","year_2006_2007",78065594.44
-"70 to 74","Medical","Expenditures","year_2007_2008",81459460.83
-"70 to 74","Medical","Expenditures","year_2008_2009",83967247.28
-"70 to 74","Medical","Expenditures","year_2009_2010",87956695.56
-"75 to 79","Medical","Expenditures","year_2005_2006",70239143.16
-"75 to 79","Medical","Expenditures","year_2006_2007",74327598.27
-"75 to 79","Medical","Expenditures","year_2007_2008",78496053.25
-"75 to 79","Medical","Expenditures","year_2008_2009",81330269.02
-"75 to 79","Medical","Expenditures","year_2009_2010",84722590.61
-"80 to 84","Medical","Expenditures","year_2005_2006",49862501.63
-"80 to 84","Medical","Expenditures","year_2006_2007",52631247.18
-"80 to 84","Medical","Expenditures","year_2007_2008",56486794.49
-"80 to 84","Medical","Expenditures","year_2008_2009",58986162.03
-"80 to 84","Medical","Expenditures","year_2009_2010",64366311.15
-"85 to 89","Medical","Expenditures","year_2005_2006",23791886.93
-"85 to 89","Medical","Expenditures","year_2006_2007",26646037.52
-"85 to 89","Medical","Expenditures","year_2007_2008",29687397.3
-"85 to 89","Medical","Expenditures","year_2008_2009",32399287.92
-"85 to 89","Medical","Expenditures","year_2009_2010",36467600.41
-"90+","Medical","Expenditures","year_2005_2006",9050074.17
-"90+","Medical","Expenditures","year_2006_2007",9749955.92
-"90+","Medical","Expenditures","year_2007_2008",10968424.39
-"90+","Medical","Expenditures","year_2008_2009",11636318.63
-"90+","Medical","Expenditures","year_2009_2010",13037228.98
+"","age","service","type","year","value"
+"1","<  1","Other Health Practioners","Patient Count","year_2005_2006",757
+"2","<  1","Other Health Practioners","Patient Count","year_2006_2007",1054
+"3","<  1","Other Health Practioners","Patient Count","year_2007_2008",1268
+"4","<  1","Other Health Practioners","Patient Count","year_2008_2009",1553
+"5","<  1","Other Health Practioners","Patient Count","year_2009_2010",1619
+"6","1 to 4","Other Health Practioners","Patient Count","year_2005_2006",17778
+"7","1 to 4","Other Health Practioners","Patient Count","year_2006_2007",20450
+"8","1 to 4","Other Health Practioners","Patient Count","year_2007_2008",21791
+"9","1 to 4","Other Health Practioners","Patient Count","year_2008_2009",23855
+"10","1 to 4","Other Health Practioners","Patient Count","year_2009_2010",24250
+"11","5 to 9","Other Health Practioners","Patient Count","year_2005_2006",61897
+"12","5 to 9","Other Health Practioners","Patient Count","year_2006_2007",63627
+"13","5 to 9","Other Health Practioners","Patient Count","year_2007_2008",66076
+"14","5 to 9","Other Health Practioners","Patient Count","year_2008_2009",70338
+"15","5 to 9","Other Health Practioners","Patient Count","year_2009_2010",70571
+"16","10 to 14","Other Health Practioners","Patient Count","year_2005_2006",81873
+"17","10 to 14","Other Health Practioners","Patient Count","year_2006_2007",82930
+"18","10 to 14","Other Health Practioners","Patient Count","year_2007_2008",85058
+"19","10 to 14","Other Health Practioners","Patient Count","year_2008_2009",87474
+"20","10 to 14","Other Health Practioners","Patient Count","year_2009_2010",87162
+"21","15 to 19","Other Health Practioners","Patient Count","year_2005_2006",73793
+"22","15 to 19","Other Health Practioners","Patient Count","year_2006_2007",74894
+"23","15 to 19","Other Health Practioners","Patient Count","year_2007_2008",75427
+"24","15 to 19","Other Health Practioners","Patient Count","year_2008_2009",77138
+"25","15 to 19","Other Health Practioners","Patient Count","year_2009_2010",78899
+"26","20 to 24","Other Health Practioners","Patient Count","year_2005_2006",20951
+"27","20 to 24","Other Health Practioners","Patient Count","year_2006_2007",20617
+"28","20 to 24","Other Health Practioners","Patient Count","year_2007_2008",20190
+"29","20 to 24","Other Health Practioners","Patient Count","year_2008_2009",21065
+"30","20 to 24","Other Health Practioners","Patient Count","year_2009_2010",22479
+"31","25 to 29","Other Health Practioners","Patient Count","year_2005_2006",20483
+"32","25 to 29","Other Health Practioners","Patient Count","year_2006_2007",20811
+"33","25 to 29","Other Health Practioners","Patient Count","year_2007_2008",20720
+"34","25 to 29","Other Health Practioners","Patient Count","year_2008_2009",22439
+"35","25 to 29","Other Health Practioners","Patient Count","year_2009_2010",23966
+"36","30 to 34","Other Health Practioners","Patient Count","year_2005_2006",20347
+"37","30 to 34","Other Health Practioners","Patient Count","year_2006_2007",20431
+"38","30 to 34","Other Health Practioners","Patient Count","year_2007_2008",20103
+"39","30 to 34","Other Health Practioners","Patient Count","year_2008_2009",21623
+"40","30 to 34","Other Health Practioners","Patient Count","year_2009_2010",23177
+"41","35 to 39","Other Health Practioners","Patient Count","year_2005_2006",21910
+"42","35 to 39","Other Health Practioners","Patient Count","year_2006_2007",22423
+"43","35 to 39","Other Health Practioners","Patient Count","year_2007_2008",22060
+"44","35 to 39","Other Health Practioners","Patient Count","year_2008_2009",23539
+"45","35 to 39","Other Health Practioners","Patient Count","year_2009_2010",24968
+"46","40 to 44","Other Health Practioners","Patient Count","year_2005_2006",28197
+"47","40 to 44","Other Health Practioners","Patient Count","year_2006_2007",28030
+"48","40 to 44","Other Health Practioners","Patient Count","year_2007_2008",27049
+"49","40 to 44","Other Health Practioners","Patient Count","year_2008_2009",28022
+"50","40 to 44","Other Health Practioners","Patient Count","year_2009_2010",29584
+"51","45 to 49","Other Health Practioners","Patient Count","year_2005_2006",33811
+"52","45 to 49","Other Health Practioners","Patient Count","year_2006_2007",34666
+"53","45 to 49","Other Health Practioners","Patient Count","year_2007_2008",34871
+"54","45 to 49","Other Health Practioners","Patient Count","year_2008_2009",37724
+"55","45 to 49","Other Health Practioners","Patient Count","year_2009_2010",40499
+"56","50 to 54","Other Health Practioners","Patient Count","year_2005_2006",35608
+"57","50 to 54","Other Health Practioners","Patient Count","year_2006_2007",37596
+"58","50 to 54","Other Health Practioners","Patient Count","year_2007_2008",38913
+"59","50 to 54","Other Health Practioners","Patient Count","year_2008_2009",42287
+"60","50 to 54","Other Health Practioners","Patient Count","year_2009_2010",45297
+"61","55 to 59","Other Health Practioners","Patient Count","year_2005_2006",37992
+"62","55 to 59","Other Health Practioners","Patient Count","year_2006_2007",40442
+"63","55 to 59","Other Health Practioners","Patient Count","year_2007_2008",41870
+"64","55 to 59","Other Health Practioners","Patient Count","year_2008_2009",44427
+"65","55 to 59","Other Health Practioners","Patient Count","year_2009_2010",48734
+"66","60 to 64","Other Health Practioners","Patient Count","year_2005_2006",35122
+"67","60 to 64","Other Health Practioners","Patient Count","year_2006_2007",38175
+"68","60 to 64","Other Health Practioners","Patient Count","year_2007_2008",42309
+"69","60 to 64","Other Health Practioners","Patient Count","year_2008_2009",46644
+"70","60 to 64","Other Health Practioners","Patient Count","year_2009_2010",52613
+"71","65 to 69","Other Health Practioners","Patient Count","year_2005_2006",56518
+"72","65 to 69","Other Health Practioners","Patient Count","year_2006_2007",58634
+"73","65 to 69","Other Health Practioners","Patient Count","year_2007_2008",61828
+"74","65 to 69","Other Health Practioners","Patient Count","year_2008_2009",66243
+"75","65 to 69","Other Health Practioners","Patient Count","year_2009_2010",71587
+"76","70 to 74","Other Health Practioners","Patient Count","year_2005_2006",51003
+"77","70 to 74","Other Health Practioners","Patient Count","year_2006_2007",51818
+"78","70 to 74","Other Health Practioners","Patient Count","year_2007_2008",53052
+"79","70 to 74","Other Health Practioners","Patient Count","year_2008_2009",55390
+"80","70 to 74","Other Health Practioners","Patient Count","year_2009_2010",58660
+"81","75 to 79","Other Health Practioners","Patient Count","year_2005_2006",44314
+"82","75 to 79","Other Health Practioners","Patient Count","year_2006_2007",45150
+"83","75 to 79","Other Health Practioners","Patient Count","year_2007_2008",46003
+"84","75 to 79","Other Health Practioners","Patient Count","year_2008_2009",47769
+"85","75 to 79","Other Health Practioners","Patient Count","year_2009_2010",49529
+"86","80 to 84","Other Health Practioners","Patient Count","year_2005_2006",34182
+"87","80 to 84","Other Health Practioners","Patient Count","year_2006_2007",34282
+"88","80 to 84","Other Health Practioners","Patient Count","year_2007_2008",34692
+"89","80 to 84","Other Health Practioners","Patient Count","year_2008_2009",35590
+"90","80 to 84","Other Health Practioners","Patient Count","year_2009_2010",36937
+"91","85 to 89","Other Health Practioners","Patient Count","year_2005_2006",18796
+"92","85 to 89","Other Health Practioners","Patient Count","year_2006_2007",19683
+"93","85 to 89","Other Health Practioners","Patient Count","year_2007_2008",20823
+"94","85 to 89","Other Health Practioners","Patient Count","year_2008_2009",22089
+"95","85 to 89","Other Health Practioners","Patient Count","year_2009_2010",23049
+"96","90+","Other Health Practioners","Patient Count","year_2005_2006",9808
+"97","90+","Other Health Practioners","Patient Count","year_2006_2007",9960
+"98","90+","Other Health Practioners","Patient Count","year_2007_2008",10232
+"99","90+","Other Health Practioners","Patient Count","year_2008_2009",10364
+"100","90+","Other Health Practioners","Patient Count","year_2009_2010",10726
+"101","<  1","Other Health Practioners","Services","year_2005_2006",1315
+"102","<  1","Other Health Practioners","Services","year_2006_2007",1742
+"103","<  1","Other Health Practioners","Services","year_2007_2008",1936
+"104","<  1","Other Health Practioners","Services","year_2008_2009",2201
+"105","<  1","Other Health Practioners","Services","year_2009_2010",2243
+"106","1 to 4","Other Health Practioners","Services","year_2005_2006",22845
+"107","1 to 4","Other Health Practioners","Services","year_2006_2007",25261
+"108","1 to 4","Other Health Practioners","Services","year_2007_2008",26339
+"109","1 to 4","Other Health Practioners","Services","year_2008_2009",30011
+"110","1 to 4","Other Health Practioners","Services","year_2009_2010",30982
+"111","5 to 9","Other Health Practioners","Services","year_2005_2006",77022
+"112","5 to 9","Other Health Practioners","Services","year_2006_2007",78279
+"113","5 to 9","Other Health Practioners","Services","year_2007_2008",80149
+"114","5 to 9","Other Health Practioners","Services","year_2008_2009",87642
+"115","5 to 9","Other Health Practioners","Services","year_2009_2010",89126
+"116","10 to 14","Other Health Practioners","Services","year_2005_2006",106826
+"117","10 to 14","Other Health Practioners","Services","year_2006_2007",107475
+"118","10 to 14","Other Health Practioners","Services","year_2007_2008",107716
+"119","10 to 14","Other Health Practioners","Services","year_2008_2009",114166
+"120","10 to 14","Other Health Practioners","Services","year_2009_2010",117284
+"121","15 to 19","Other Health Practioners","Services","year_2005_2006",110403
+"122","15 to 19","Other Health Practioners","Services","year_2006_2007",110653
+"123","15 to 19","Other Health Practioners","Services","year_2007_2008",108744
+"124","15 to 19","Other Health Practioners","Services","year_2008_2009",114958
+"125","15 to 19","Other Health Practioners","Services","year_2009_2010",121743
+"126","20 to 24","Other Health Practioners","Services","year_2005_2006",76494
+"127","20 to 24","Other Health Practioners","Services","year_2006_2007",72351
+"128","20 to 24","Other Health Practioners","Services","year_2007_2008",68154
+"129","20 to 24","Other Health Practioners","Services","year_2008_2009",71290
+"130","20 to 24","Other Health Practioners","Services","year_2009_2010",76307
+"131","25 to 29","Other Health Practioners","Services","year_2005_2006",77246
+"132","25 to 29","Other Health Practioners","Services","year_2006_2007",75861
+"133","25 to 29","Other Health Practioners","Services","year_2007_2008",72171
+"134","25 to 29","Other Health Practioners","Services","year_2008_2009",77488
+"135","25 to 29","Other Health Practioners","Services","year_2009_2010",81343
+"136","30 to 34","Other Health Practioners","Services","year_2005_2006",73383
+"137","30 to 34","Other Health Practioners","Services","year_2006_2007",70083
+"138","30 to 34","Other Health Practioners","Services","year_2007_2008",67303
+"139","30 to 34","Other Health Practioners","Services","year_2008_2009",71058
+"140","30 to 34","Other Health Practioners","Services","year_2009_2010",76716
+"141","35 to 39","Other Health Practioners","Services","year_2005_2006",76629
+"142","35 to 39","Other Health Practioners","Services","year_2006_2007",74930
+"143","35 to 39","Other Health Practioners","Services","year_2007_2008",70049
+"144","35 to 39","Other Health Practioners","Services","year_2008_2009",77132
+"145","35 to 39","Other Health Practioners","Services","year_2009_2010",81074
+"146","40 to 44","Other Health Practioners","Services","year_2005_2006",93099
+"147","40 to 44","Other Health Practioners","Services","year_2006_2007",88454
+"148","40 to 44","Other Health Practioners","Services","year_2007_2008",81823
+"149","40 to 44","Other Health Practioners","Services","year_2008_2009",88391
+"150","40 to 44","Other Health Practioners","Services","year_2009_2010",94531
+"151","45 to 49","Other Health Practioners","Services","year_2005_2006",102678
+"152","45 to 49","Other Health Practioners","Services","year_2006_2007",101553
+"153","45 to 49","Other Health Practioners","Services","year_2007_2008",97209
+"154","45 to 49","Other Health Practioners","Services","year_2008_2009",108888
+"155","45 to 49","Other Health Practioners","Services","year_2009_2010",121551
+"156","50 to 54","Other Health Practioners","Services","year_2005_2006",102186
+"157","50 to 54","Other Health Practioners","Services","year_2006_2007",102130
+"158","50 to 54","Other Health Practioners","Services","year_2007_2008",103530
+"159","50 to 54","Other Health Practioners","Services","year_2008_2009",115173
+"160","50 to 54","Other Health Practioners","Services","year_2009_2010",122648
+"161","55 to 59","Other Health Practioners","Services","year_2005_2006",100411
+"162","55 to 59","Other Health Practioners","Services","year_2006_2007",103871
+"163","55 to 59","Other Health Practioners","Services","year_2007_2008",104682
+"164","55 to 59","Other Health Practioners","Services","year_2008_2009",111859
+"165","55 to 59","Other Health Practioners","Services","year_2009_2010",122712
+"166","60 to 64","Other Health Practioners","Services","year_2005_2006",89799
+"167","60 to 64","Other Health Practioners","Services","year_2006_2007",93477
+"168","60 to 64","Other Health Practioners","Services","year_2007_2008",100300
+"169","60 to 64","Other Health Practioners","Services","year_2008_2009",112276
+"170","60 to 64","Other Health Practioners","Services","year_2009_2010",126347
+"171","65 to 69","Other Health Practioners","Services","year_2005_2006",122214
+"172","65 to 69","Other Health Practioners","Services","year_2006_2007",122995
+"173","65 to 69","Other Health Practioners","Services","year_2007_2008",126671
+"174","65 to 69","Other Health Practioners","Services","year_2008_2009",138266
+"175","65 to 69","Other Health Practioners","Services","year_2009_2010",150878
+"176","70 to 74","Other Health Practioners","Services","year_2005_2006",119147
+"177","70 to 74","Other Health Practioners","Services","year_2006_2007",117770
+"178","70 to 74","Other Health Practioners","Services","year_2007_2008",118535
+"179","70 to 74","Other Health Practioners","Services","year_2008_2009",126313
+"180","70 to 74","Other Health Practioners","Services","year_2009_2010",134337
+"181","75 to 79","Other Health Practioners","Services","year_2005_2006",111495
+"182","75 to 79","Other Health Practioners","Services","year_2006_2007",110002
+"183","75 to 79","Other Health Practioners","Services","year_2007_2008",109354
+"184","75 to 79","Other Health Practioners","Services","year_2008_2009",115784
+"185","75 to 79","Other Health Practioners","Services","year_2009_2010",120285
+"186","80 to 84","Other Health Practioners","Services","year_2005_2006",92825
+"187","80 to 84","Other Health Practioners","Services","year_2006_2007",90264
+"188","80 to 84","Other Health Practioners","Services","year_2007_2008",89744
+"189","80 to 84","Other Health Practioners","Services","year_2008_2009",92059
+"190","80 to 84","Other Health Practioners","Services","year_2009_2010",94676
+"191","85 to 89","Other Health Practioners","Services","year_2005_2006",55527
+"192","85 to 89","Other Health Practioners","Services","year_2006_2007",55645
+"193","85 to 89","Other Health Practioners","Services","year_2007_2008",57140
+"194","85 to 89","Other Health Practioners","Services","year_2008_2009",59627
+"195","85 to 89","Other Health Practioners","Services","year_2009_2010",61704
+"196","90+","Other Health Practioners","Services","year_2005_2006",31295
+"197","90+","Other Health Practioners","Services","year_2006_2007",30717
+"198","90+","Other Health Practioners","Services","year_2007_2008",31518
+"199","90+","Other Health Practioners","Services","year_2008_2009",30772
+"200","90+","Other Health Practioners","Services","year_2009_2010",30821
+"201","<  1","Other Health Practioners","Expenditures","year_2005_2006",87118.04
+"202","<  1","Other Health Practioners","Expenditures","year_2006_2007",134073.87
+"203","<  1","Other Health Practioners","Expenditures","year_2007_2008",101522.64
+"204","<  1","Other Health Practioners","Expenditures","year_2008_2009",165217.43
+"205","<  1","Other Health Practioners","Expenditures","year_2009_2010",167667.95
+"206","1 to 4","Other Health Practioners","Expenditures","year_2005_2006",931754.18
+"207","1 to 4","Other Health Practioners","Expenditures","year_2006_2007",1045704.1
+"208","1 to 4","Other Health Practioners","Expenditures","year_2007_2008",1100043.47
+"209","1 to 4","Other Health Practioners","Expenditures","year_2008_2009",1255643.21
+"210","1 to 4","Other Health Practioners","Expenditures","year_2009_2010",1344346
+"211","5 to 9","Other Health Practioners","Expenditures","year_2005_2006",3335236.12
+"212","5 to 9","Other Health Practioners","Expenditures","year_2006_2007",3411601.36
+"213","5 to 9","Other Health Practioners","Expenditures","year_2007_2008",3481643.63
+"214","5 to 9","Other Health Practioners","Expenditures","year_2008_2009",3847723.97
+"215","5 to 9","Other Health Practioners","Expenditures","year_2009_2010",4063057.87
+"216","10 to 14","Other Health Practioners","Expenditures","year_2005_2006",4936652.55
+"217","10 to 14","Other Health Practioners","Expenditures","year_2006_2007",4979016.97
+"218","10 to 14","Other Health Practioners","Expenditures","year_2007_2008",4979446.06
+"219","10 to 14","Other Health Practioners","Expenditures","year_2008_2009",5299508.79
+"220","10 to 14","Other Health Practioners","Expenditures","year_2009_2010",5540869.61
+"221","15 to 19","Other Health Practioners","Expenditures","year_2005_2006",5284445.89
+"222","15 to 19","Other Health Practioners","Expenditures","year_2006_2007",5438031.68
+"223","15 to 19","Other Health Practioners","Expenditures","year_2007_2008",5424870.87
+"224","15 to 19","Other Health Practioners","Expenditures","year_2008_2009",5986202.74
+"225","15 to 19","Other Health Practioners","Expenditures","year_2009_2010",6214306.74
+"226","20 to 24","Other Health Practioners","Expenditures","year_2005_2006",3226342.72
+"227","20 to 24","Other Health Practioners","Expenditures","year_2006_2007",3047582.25
+"228","20 to 24","Other Health Practioners","Expenditures","year_2007_2008",3267882.49
+"229","20 to 24","Other Health Practioners","Expenditures","year_2008_2009",3734041.19
+"230","20 to 24","Other Health Practioners","Expenditures","year_2009_2010",4166507.62
+"231","25 to 29","Other Health Practioners","Expenditures","year_2005_2006",4266957.63
+"232","25 to 29","Other Health Practioners","Expenditures","year_2006_2007",4553659.8
+"233","25 to 29","Other Health Practioners","Expenditures","year_2007_2008",4906300.92
+"234","25 to 29","Other Health Practioners","Expenditures","year_2008_2009",5958276.05
+"235","25 to 29","Other Health Practioners","Expenditures","year_2009_2010",7192779.66
+"236","30 to 34","Other Health Practioners","Expenditures","year_2005_2006",4866767.72
+"237","30 to 34","Other Health Practioners","Expenditures","year_2006_2007",5224210.67
+"238","30 to 34","Other Health Practioners","Expenditures","year_2007_2008",5813502.48
+"239","30 to 34","Other Health Practioners","Expenditures","year_2008_2009",7297025.67
+"240","30 to 34","Other Health Practioners","Expenditures","year_2009_2010",8587907.85
+"241","35 to 39","Other Health Practioners","Expenditures","year_2005_2006",3716482.99
+"242","35 to 39","Other Health Practioners","Expenditures","year_2006_2007",3881522.36
+"243","35 to 39","Other Health Practioners","Expenditures","year_2007_2008",4159058.54
+"244","35 to 39","Other Health Practioners","Expenditures","year_2008_2009",5055202.47
+"245","35 to 39","Other Health Practioners","Expenditures","year_2009_2010",5897450.02
+"246","40 to 44","Other Health Practioners","Expenditures","year_2005_2006",3051422.42
+"247","40 to 44","Other Health Practioners","Expenditures","year_2006_2007",2978364.96
+"248","40 to 44","Other Health Practioners","Expenditures","year_2007_2008",2835168.66
+"249","40 to 44","Other Health Practioners","Expenditures","year_2008_2009",3137091.16
+"250","40 to 44","Other Health Practioners","Expenditures","year_2009_2010",3442814.39
+"251","45 to 49","Other Health Practioners","Expenditures","year_2005_2006",3157169.88
+"252","45 to 49","Other Health Practioners","Expenditures","year_2006_2007",3182023.87
+"253","45 to 49","Other Health Practioners","Expenditures","year_2007_2008",3085988.27
+"254","45 to 49","Other Health Practioners","Expenditures","year_2008_2009",3452554.27
+"255","45 to 49","Other Health Practioners","Expenditures","year_2009_2010",3979941.21
+"256","50 to 54","Other Health Practioners","Expenditures","year_2005_2006",3151149.37
+"257","50 to 54","Other Health Practioners","Expenditures","year_2006_2007",3202216.85
+"258","50 to 54","Other Health Practioners","Expenditures","year_2007_2008",3323334.15
+"259","50 to 54","Other Health Practioners","Expenditures","year_2008_2009",3732435.84
+"260","50 to 54","Other Health Practioners","Expenditures","year_2009_2010",4057327.49
+"261","55 to 59","Other Health Practioners","Expenditures","year_2005_2006",3163644.19
+"262","55 to 59","Other Health Practioners","Expenditures","year_2006_2007",3335940.26
+"263","55 to 59","Other Health Practioners","Expenditures","year_2007_2008",3381921.25
+"264","55 to 59","Other Health Practioners","Expenditures","year_2008_2009",3697478.61
+"265","55 to 59","Other Health Practioners","Expenditures","year_2009_2010",4134087.97
+"266","60 to 64","Other Health Practioners","Expenditures","year_2005_2006",2827040.3
+"267","60 to 64","Other Health Practioners","Expenditures","year_2006_2007",3009483.04
+"268","60 to 64","Other Health Practioners","Expenditures","year_2007_2008",3276572.11
+"269","60 to 64","Other Health Practioners","Expenditures","year_2008_2009",3701043.52
+"270","60 to 64","Other Health Practioners","Expenditures","year_2009_2010",4317900.57
+"271","65 to 69","Other Health Practioners","Expenditures","year_2005_2006",4101073.66
+"272","65 to 69","Other Health Practioners","Expenditures","year_2006_2007",4150666.82
+"273","65 to 69","Other Health Practioners","Expenditures","year_2007_2008",4325626.19
+"274","65 to 69","Other Health Practioners","Expenditures","year_2008_2009",4785864.18
+"275","65 to 69","Other Health Practioners","Expenditures","year_2009_2010",5375235.7
+"276","70 to 74","Other Health Practioners","Expenditures","year_2005_2006",3873107.35
+"277","70 to 74","Other Health Practioners","Expenditures","year_2006_2007",3858971.08
+"278","70 to 74","Other Health Practioners","Expenditures","year_2007_2008",3938670.49
+"279","70 to 74","Other Health Practioners","Expenditures","year_2008_2009",4202522.19
+"280","70 to 74","Other Health Practioners","Expenditures","year_2009_2010",4597208.3
+"281","75 to 79","Other Health Practioners","Expenditures","year_2005_2006",3540768.77
+"282","75 to 79","Other Health Practioners","Expenditures","year_2006_2007",3543657.92
+"283","75 to 79","Other Health Practioners","Expenditures","year_2007_2008",3550109.03
+"284","75 to 79","Other Health Practioners","Expenditures","year_2008_2009",3791746.6
+"285","75 to 79","Other Health Practioners","Expenditures","year_2009_2010",4068395.34
+"286","80 to 84","Other Health Practioners","Expenditures","year_2005_2006",2866027.98
+"287","80 to 84","Other Health Practioners","Expenditures","year_2006_2007",2813500.8
+"288","80 to 84","Other Health Practioners","Expenditures","year_2007_2008",2824720.64
+"289","80 to 84","Other Health Practioners","Expenditures","year_2008_2009",2960122.53
+"290","80 to 84","Other Health Practioners","Expenditures","year_2009_2010",3123964.28
+"291","85 to 89","Other Health Practioners","Expenditures","year_2005_2006",1639450.5
+"292","85 to 89","Other Health Practioners","Expenditures","year_2006_2007",1678456.44
+"293","85 to 89","Other Health Practioners","Expenditures","year_2007_2008",1758102.18
+"294","85 to 89","Other Health Practioners","Expenditures","year_2008_2009",1876252.99
+"295","85 to 89","Other Health Practioners","Expenditures","year_2009_2010",1997166.86
+"296","90+","Other Health Practioners","Expenditures","year_2005_2006",868061.8
+"297","90+","Other Health Practioners","Expenditures","year_2006_2007",864837.44
+"298","90+","Other Health Practioners","Expenditures","year_2007_2008",894994.52
+"299","90+","Other Health Practioners","Expenditures","year_2008_2009",905380.31
+"300","90+","Other Health Practioners","Expenditures","year_2009_2010",949823.17
+"301","<  1","Medical","Patient Count","year_2005_2006",56185
+"302","<  1","Medical","Patient Count","year_2006_2007",58123
+"303","<  1","Medical","Patient Count","year_2007_2008",60641
+"304","<  1","Medical","Patient Count","year_2008_2009",62179
+"305","<  1","Medical","Patient Count","year_2009_2010",62263
+"306","1 to 4","Medical","Patient Count","year_2005_2006",147160
+"307","1 to 4","Medical","Patient Count","year_2006_2007",146358
+"308","1 to 4","Medical","Patient Count","year_2007_2008",147412
+"309","1 to 4","Medical","Patient Count","year_2008_2009",149620
+"310","1 to 4","Medical","Patient Count","year_2009_2010",155340
+"311","5 to 9","Medical","Patient Count","year_2005_2006",181787
+"312","5 to 9","Medical","Patient Count","year_2006_2007",173464
+"313","5 to 9","Medical","Patient Count","year_2007_2008",171717
+"314","5 to 9","Medical","Patient Count","year_2008_2009",169331
+"315","5 to 9","Medical","Patient Count","year_2009_2010",175065
+"316","10 to 14","Medical","Patient Count","year_2005_2006",194726
+"317","10 to 14","Medical","Patient Count","year_2006_2007",187736
+"318","10 to 14","Medical","Patient Count","year_2007_2008",184899
+"319","10 to 14","Medical","Patient Count","year_2008_2009",182134
+"320","10 to 14","Medical","Patient Count","year_2009_2010",184544
+"321","15 to 19","Medical","Patient Count","year_2005_2006",218750
+"322","15 to 19","Medical","Patient Count","year_2006_2007",216385
+"323","15 to 19","Medical","Patient Count","year_2007_2008",215602
+"324","15 to 19","Medical","Patient Count","year_2008_2009",215827
+"325","15 to 19","Medical","Patient Count","year_2009_2010",219944
+"326","20 to 24","Medical","Patient Count","year_2005_2006",220105
+"327","20 to 24","Medical","Patient Count","year_2006_2007",221606
+"328","20 to 24","Medical","Patient Count","year_2007_2008",221412
+"329","20 to 24","Medical","Patient Count","year_2008_2009",222571
+"330","20 to 24","Medical","Patient Count","year_2009_2010",226098
+"331","25 to 29","Medical","Patient Count","year_2005_2006",207707
+"332","25 to 29","Medical","Patient Count","year_2006_2007",212952
+"333","25 to 29","Medical","Patient Count","year_2007_2008",219483
+"334","25 to 29","Medical","Patient Count","year_2008_2009",227939
+"335","25 to 29","Medical","Patient Count","year_2009_2010",237311
+"336","30 to 34","Medical","Patient Count","year_2005_2006",223455
+"337","30 to 34","Medical","Patient Count","year_2006_2007",220192
+"338","30 to 34","Medical","Patient Count","year_2007_2008",220902
+"339","30 to 34","Medical","Patient Count","year_2008_2009",223284
+"340","30 to 34","Medical","Patient Count","year_2009_2010",229459
+"341","35 to 39","Medical","Patient Count","year_2005_2006",249021
+"342","35 to 39","Medical","Patient Count","year_2006_2007",250000
+"343","35 to 39","Medical","Patient Count","year_2007_2008",249883
+"344","35 to 39","Medical","Patient Count","year_2008_2009",248791
+"345","35 to 39","Medical","Patient Count","year_2009_2010",247150
+"346","40 to 44","Medical","Patient Count","year_2005_2006",287237
+"347","40 to 44","Medical","Patient Count","year_2006_2007",281418
+"348","40 to 44","Medical","Patient Count","year_2007_2008",274969
+"349","40 to 44","Medical","Patient Count","year_2008_2009",268323
+"350","40 to 44","Medical","Patient Count","year_2009_2010",266174
+"351","45 to 49","Medical","Patient Count","year_2005_2006",290516
+"352","45 to 49","Medical","Patient Count","year_2006_2007",293471
+"353","45 to 49","Medical","Patient Count","year_2007_2008",297756
+"354","45 to 49","Medical","Patient Count","year_2008_2009",301608
+"355","45 to 49","Medical","Patient Count","year_2009_2010",304600
+"356","50 to 54","Medical","Patient Count","year_2005_2006",271618
+"357","50 to 54","Medical","Patient Count","year_2006_2007",279382
+"358","50 to 54","Medical","Patient Count","year_2007_2008",286740
+"359","50 to 54","Medical","Patient Count","year_2008_2009",293589
+"360","50 to 54","Medical","Patient Count","year_2009_2010",299601
+"361","55 to 59","Medical","Patient Count","year_2005_2006",248871
+"362","55 to 59","Medical","Patient Count","year_2006_2007",257311
+"363","55 to 59","Medical","Patient Count","year_2007_2008",259657
+"364","55 to 59","Medical","Patient Count","year_2008_2009",265598
+"365","55 to 59","Medical","Patient Count","year_2009_2010",273232
+"366","60 to 64","Medical","Patient Count","year_2005_2006",189562
+"367","60 to 64","Medical","Patient Count","year_2006_2007",200868
+"368","60 to 64","Medical","Patient Count","year_2007_2008",217391
+"369","60 to 64","Medical","Patient Count","year_2008_2009",230137
+"370","60 to 64","Medical","Patient Count","year_2009_2010",242636
+"371","65 to 69","Medical","Patient Count","year_2005_2006",153750
+"372","65 to 69","Medical","Patient Count","year_2006_2007",159013
+"373","65 to 69","Medical","Patient Count","year_2007_2008",166329
+"374","65 to 69","Medical","Patient Count","year_2008_2009",174449
+"375","65 to 69","Medical","Patient Count","year_2009_2010",183631
+"376","70 to 74","Medical","Patient Count","year_2005_2006",134000
+"377","70 to 74","Medical","Patient Count","year_2006_2007",135409
+"378","70 to 74","Medical","Patient Count","year_2007_2008",137102
+"379","70 to 74","Medical","Patient Count","year_2008_2009",139729
+"380","70 to 74","Medical","Patient Count","year_2009_2010",143371
+"381","75 to 79","Medical","Patient Count","year_2005_2006",113502
+"382","75 to 79","Medical","Patient Count","year_2006_2007",115837
+"383","75 to 79","Medical","Patient Count","year_2007_2008",117312
+"384","75 to 79","Medical","Patient Count","year_2008_2009",119054
+"385","75 to 79","Medical","Patient Count","year_2009_2010",119535
+"386","80 to 84","Medical","Patient Count","year_2005_2006",86111
+"387","80 to 84","Medical","Patient Count","year_2006_2007",86639
+"388","80 to 84","Medical","Patient Count","year_2007_2008",87759
+"389","80 to 84","Medical","Patient Count","year_2008_2009",88774
+"390","80 to 84","Medical","Patient Count","year_2009_2010",90545
+"391","85 to 89","Medical","Patient Count","year_2005_2006",48092
+"392","85 to 89","Medical","Patient Count","year_2006_2007",51289
+"393","85 to 89","Medical","Patient Count","year_2007_2008",53869
+"394","85 to 89","Medical","Patient Count","year_2008_2009",56662
+"395","85 to 89","Medical","Patient Count","year_2009_2010",58977
+"396","90+","Medical","Patient Count","year_2005_2006",25924
+"397","90+","Medical","Patient Count","year_2006_2007",27025
+"398","90+","Medical","Patient Count","year_2007_2008",27953
+"399","90+","Medical","Patient Count","year_2008_2009",28980
+"400","90+","Medical","Patient Count","year_2009_2010",30135
+"401","<  1","Medical","Services","year_2005_2006",577835
+"402","<  1","Medical","Services","year_2006_2007",687979
+"403","<  1","Medical","Services","year_2007_2008",802244
+"404","<  1","Medical","Services","year_2008_2009",835052
+"405","<  1","Medical","Services","year_2009_2010",801825
+"406","1 to 4","Medical","Services","year_2005_2006",1190010
+"407","1 to 4","Medical","Services","year_2006_2007",1162615
+"408","1 to 4","Medical","Services","year_2007_2008",1224050
+"409","1 to 4","Medical","Services","year_2008_2009",1238201
+"410","1 to 4","Medical","Services","year_2009_2010",1308816
+"411","5 to 9","Medical","Services","year_2005_2006",1221642
+"412","5 to 9","Medical","Services","year_2006_2007",1119831
+"413","5 to 9","Medical","Services","year_2007_2008",1137423
+"414","5 to 9","Medical","Services","year_2008_2009",1128666
+"415","5 to 9","Medical","Services","year_2009_2010",1181916
+"416","10 to 14","Medical","Services","year_2005_2006",1276286
+"417","10 to 14","Medical","Services","year_2006_2007",1220742
+"418","10 to 14","Medical","Services","year_2007_2008",1222109
+"419","10 to 14","Medical","Services","year_2008_2009",1242880
+"420","10 to 14","Medical","Services","year_2009_2010",1269409
+"421","15 to 19","Medical","Services","year_2005_2006",2018452
+"422","15 to 19","Medical","Services","year_2006_2007",2002969
+"423","15 to 19","Medical","Services","year_2007_2008",2007975
+"424","15 to 19","Medical","Services","year_2008_2009",2085448
+"425","15 to 19","Medical","Services","year_2009_2010",2142526
+"426","20 to 24","Medical","Services","year_2005_2006",2617392
+"427","20 to 24","Medical","Services","year_2006_2007",2635736
+"428","20 to 24","Medical","Services","year_2007_2008",2641774
+"429","20 to 24","Medical","Services","year_2008_2009",2713596
+"430","20 to 24","Medical","Services","year_2009_2010",2769430
+"431","25 to 29","Medical","Services","year_2005_2006",3023074
+"432","25 to 29","Medical","Services","year_2006_2007",3128870
+"433","25 to 29","Medical","Services","year_2007_2008",3205172
+"434","25 to 29","Medical","Services","year_2008_2009",3401053
+"435","25 to 29","Medical","Services","year_2009_2010",3555688
+"436","30 to 34","Medical","Services","year_2005_2006",3521386
+"437","30 to 34","Medical","Services","year_2006_2007",3504705
+"438","30 to 34","Medical","Services","year_2007_2008",3552085
+"439","30 to 34","Medical","Services","year_2008_2009",3728247
+"440","30 to 34","Medical","Services","year_2009_2010",3900069
+"441","35 to 39","Medical","Services","year_2005_2006",3995552
+"442","35 to 39","Medical","Services","year_2006_2007",4040744
+"443","35 to 39","Medical","Services","year_2007_2008",4055069
+"444","35 to 39","Medical","Services","year_2008_2009",4167612
+"445","35 to 39","Medical","Services","year_2009_2010",4227097
+"446","40 to 44","Medical","Services","year_2005_2006",4846903
+"447","40 to 44","Medical","Services","year_2006_2007",4821985
+"448","40 to 44","Medical","Services","year_2007_2008",4778432
+"449","40 to 44","Medical","Services","year_2008_2009",4807778
+"450","40 to 44","Medical","Services","year_2009_2010",4818541
+"451","45 to 49","Medical","Services","year_2005_2006",5496016
+"452","45 to 49","Medical","Services","year_2006_2007",5597301
+"453","45 to 49","Medical","Services","year_2007_2008",5779216
+"454","45 to 49","Medical","Services","year_2008_2009",6020886
+"455","45 to 49","Medical","Services","year_2009_2010",6157577
+"456","50 to 54","Medical","Services","year_2005_2006",5985192
+"457","50 to 54","Medical","Services","year_2006_2007",6267146
+"458","50 to 54","Medical","Services","year_2007_2008",6549370
+"459","50 to 54","Medical","Services","year_2008_2009",6887624
+"460","50 to 54","Medical","Services","year_2009_2010",7059234
+"461","55 to 59","Medical","Services","year_2005_2006",6251645
+"462","55 to 59","Medical","Services","year_2006_2007",6586832
+"463","55 to 59","Medical","Services","year_2007_2008",6798768
+"464","55 to 59","Medical","Services","year_2008_2009",7125106
+"465","55 to 59","Medical","Services","year_2009_2010",7386201
+"466","60 to 64","Medical","Services","year_2005_2006",5520094
+"467","60 to 64","Medical","Services","year_2006_2007",5991115
+"468","60 to 64","Medical","Services","year_2007_2008",6640398
+"469","60 to 64","Medical","Services","year_2008_2009",7151025
+"470","60 to 64","Medical","Services","year_2009_2010",7614351
+"471","65 to 69","Medical","Services","year_2005_2006",5205810
+"472","65 to 69","Medical","Services","year_2006_2007",5574460
+"473","65 to 69","Medical","Services","year_2007_2008",5994011
+"474","65 to 69","Medical","Services","year_2008_2009",6366207
+"475","65 to 69","Medical","Services","year_2009_2010",6755209
+"476","70 to 74","Medical","Services","year_2005_2006",5239186
+"477","70 to 74","Medical","Services","year_2006_2007",5499508
+"478","70 to 74","Medical","Services","year_2007_2008",5715013
+"479","70 to 74","Medical","Services","year_2008_2009",5915865
+"480","70 to 74","Medical","Services","year_2009_2010",6103166
+"481","75 to 79","Medical","Services","year_2005_2006",4982294
+"482","75 to 79","Medical","Services","year_2006_2007",5284367
+"483","75 to 79","Medical","Services","year_2007_2008",5517312
+"484","75 to 79","Medical","Services","year_2008_2009",5673764
+"485","75 to 79","Medical","Services","year_2009_2010",5760388
+"486","80 to 84","Medical","Services","year_2005_2006",3882794
+"487","80 to 84","Medical","Services","year_2006_2007",4082515
+"488","80 to 84","Medical","Services","year_2007_2008",4295972
+"489","80 to 84","Medical","Services","year_2008_2009",4423051
+"490","80 to 84","Medical","Services","year_2009_2010",4554588
+"491","85 to 89","Medical","Services","year_2005_2006",2088719
+"492","85 to 89","Medical","Services","year_2006_2007",2321781
+"493","85 to 89","Medical","Services","year_2007_2008",2529218
+"494","85 to 89","Medical","Services","year_2008_2009",2732481
+"495","85 to 89","Medical","Services","year_2009_2010",2908537
+"496","90+","Medical","Services","year_2005_2006",951199
+"497","90+","Medical","Services","year_2006_2007",1014863
+"498","90+","Medical","Services","year_2007_2008",1098444
+"499","90+","Medical","Services","year_2008_2009",1179802
+"500","90+","Medical","Services","year_2009_2010",1261385
+"501","<  1","Medical","Expenditures","year_2005_2006",25971358.23
+"502","<  1","Medical","Expenditures","year_2006_2007",34602465.19
+"503","<  1","Medical","Expenditures","year_2007_2008",38405725.33
+"504","<  1","Medical","Expenditures","year_2008_2009",41017589.11
+"505","<  1","Medical","Expenditures","year_2009_2010",41832260.1
+"506","1 to 4","Medical","Expenditures","year_2005_2006",41234636.52
+"507","1 to 4","Medical","Expenditures","year_2006_2007",42755323.38
+"508","1 to 4","Medical","Expenditures","year_2007_2008",44418153.08
+"509","1 to 4","Medical","Expenditures","year_2008_2009",45329455.76
+"510","1 to 4","Medical","Expenditures","year_2009_2010",47792244.59
+"511","5 to 9","Medical","Expenditures","year_2005_2006",41084389.57
+"512","5 to 9","Medical","Expenditures","year_2006_2007",39928044.45
+"513","5 to 9","Medical","Expenditures","year_2007_2008",41365189.38
+"514","5 to 9","Medical","Expenditures","year_2008_2009",41643648.01
+"515","5 to 9","Medical","Expenditures","year_2009_2010",43640662.75
+"516","10 to 14","Medical","Expenditures","year_2005_2006",42578934.12
+"517","10 to 14","Medical","Expenditures","year_2006_2007",43016154.85
+"518","10 to 14","Medical","Expenditures","year_2007_2008",43847114.6
+"519","10 to 14","Medical","Expenditures","year_2008_2009",44529106.47
+"520","10 to 14","Medical","Expenditures","year_2009_2010",45514838.06
+"521","15 to 19","Medical","Expenditures","year_2005_2006",62678427.93
+"522","15 to 19","Medical","Expenditures","year_2006_2007",64885653.13
+"523","15 to 19","Medical","Expenditures","year_2007_2008",65910149.16
+"524","15 to 19","Medical","Expenditures","year_2008_2009",67993725.43
+"525","15 to 19","Medical","Expenditures","year_2009_2010",70752009.48
+"526","20 to 24","Medical","Expenditures","year_2005_2006",79821169.83
+"527","20 to 24","Medical","Expenditures","year_2006_2007",83257970.29
+"528","20 to 24","Medical","Expenditures","year_2007_2008",84949255.92
+"529","20 to 24","Medical","Expenditures","year_2008_2009",87205943.94
+"530","20 to 24","Medical","Expenditures","year_2009_2010",89599844.99
+"531","25 to 29","Medical","Expenditures","year_2005_2006",93104867.79
+"532","25 to 29","Medical","Expenditures","year_2006_2007",99365012.54
+"533","25 to 29","Medical","Expenditures","year_2007_2008",103752721
+"534","25 to 29","Medical","Expenditures","year_2008_2009",110117179.2
+"535","25 to 29","Medical","Expenditures","year_2009_2010",115514108.1
+"536","30 to 34","Medical","Expenditures","year_2005_2006",109307188.1
+"537","30 to 34","Medical","Expenditures","year_2006_2007",111793076.4
+"538","30 to 34","Medical","Expenditures","year_2007_2008",115085227.6
+"539","30 to 34","Medical","Expenditures","year_2008_2009",120343146.9
+"540","30 to 34","Medical","Expenditures","year_2009_2010",126479224.7
+"541","35 to 39","Medical","Expenditures","year_2005_2006",119294171.1
+"542","35 to 39","Medical","Expenditures","year_2006_2007",124491307.1
+"543","35 to 39","Medical","Expenditures","year_2007_2008",125957653
+"544","35 to 39","Medical","Expenditures","year_2008_2009",129337061.7
+"545","35 to 39","Medical","Expenditures","year_2009_2010",131943375.5
+"546","40 to 44","Medical","Expenditures","year_2005_2006",136789805.9
+"547","40 to 44","Medical","Expenditures","year_2006_2007",139097363.1
+"548","40 to 44","Medical","Expenditures","year_2007_2008",137622419.5
+"549","40 to 44","Medical","Expenditures","year_2008_2009",138334997.5
+"550","40 to 44","Medical","Expenditures","year_2009_2010",140168645.8
+"551","45 to 49","Medical","Expenditures","year_2005_2006",150050322.1
+"552","45 to 49","Medical","Expenditures","year_2006_2007",156639842.3
+"553","45 to 49","Medical","Expenditures","year_2007_2008",160916910.8
+"554","45 to 49","Medical","Expenditures","year_2008_2009",167111743.9
+"555","45 to 49","Medical","Expenditures","year_2009_2010",173230401.4
+"556","50 to 54","Medical","Expenditures","year_2005_2006",160219174.4
+"557","50 to 54","Medical","Expenditures","year_2006_2007",170006115.1
+"558","50 to 54","Medical","Expenditures","year_2007_2008",176428511.1
+"559","50 to 54","Medical","Expenditures","year_2008_2009",188921793.9
+"560","50 to 54","Medical","Expenditures","year_2009_2010",198322087.8
+"561","55 to 59","Medical","Expenditures","year_2005_2006",167093720.3
+"562","55 to 59","Medical","Expenditures","year_2006_2007",177359803.2
+"563","55 to 59","Medical","Expenditures","year_2007_2008",181613179.4
+"564","55 to 59","Medical","Expenditures","year_2008_2009",193194594.6
+"565","55 to 59","Medical","Expenditures","year_2009_2010",204249118
+"566","60 to 64","Medical","Expenditures","year_2005_2006",152474565.4
+"567","60 to 64","Medical","Expenditures","year_2006_2007",166487743.6
+"568","60 to 64","Medical","Expenditures","year_2007_2008",183252206.3
+"569","60 to 64","Medical","Expenditures","year_2008_2009",197581026.7
+"570","60 to 64","Medical","Expenditures","year_2009_2010",213206521.9
+"571","65 to 69","Medical","Expenditures","year_2005_2006",144751581.6
+"572","65 to 69","Medical","Expenditures","year_2006_2007",154353786.8
+"573","65 to 69","Medical","Expenditures","year_2007_2008",166516842.5
+"574","65 to 69","Medical","Expenditures","year_2008_2009",176606214.3
+"575","65 to 69","Medical","Expenditures","year_2009_2010",189577833.5
+"576","70 to 74","Medical","Expenditures","year_2005_2006",150241457.5
+"577","70 to 74","Medical","Expenditures","year_2006_2007",156397440.7
+"578","70 to 74","Medical","Expenditures","year_2007_2008",162824506.1
+"579","70 to 74","Medical","Expenditures","year_2008_2009",168111323.3
+"580","70 to 74","Medical","Expenditures","year_2009_2010",177017055.8
+"581","75 to 79","Medical","Expenditures","year_2005_2006",144732885.8
+"582","75 to 79","Medical","Expenditures","year_2006_2007",151450611.3
+"583","75 to 79","Medical","Expenditures","year_2007_2008",159775671.4
+"584","75 to 79","Medical","Expenditures","year_2008_2009",163713321.6
+"585","75 to 79","Medical","Expenditures","year_2009_2010",170708641.9
+"586","80 to 84","Medical","Expenditures","year_2005_2006",113773187.7
+"587","80 to 84","Medical","Expenditures","year_2006_2007",117839774.7
+"588","80 to 84","Medical","Expenditures","year_2007_2008",126233096.3
+"589","80 to 84","Medical","Expenditures","year_2008_2009",128972823.6
+"590","80 to 84","Medical","Expenditures","year_2009_2010",139658402.3
+"591","85 to 89","Medical","Expenditures","year_2005_2006",60605155.59
+"592","85 to 89","Medical","Expenditures","year_2006_2007",66494997.51
+"593","85 to 89","Medical","Expenditures","year_2007_2008",74592325.92
+"594","85 to 89","Medical","Expenditures","year_2008_2009",80092219.88
+"595","85 to 89","Medical","Expenditures","year_2009_2010",89671839.2
+"596","90+","Medical","Expenditures","year_2005_2006",27168868.58
+"597","90+","Medical","Expenditures","year_2006_2007",28723581.29
+"598","90+","Medical","Expenditures","year_2007_2008",32907493.28
+"599","90+","Medical","Expenditures","year_2008_2009",35058067.49
+"600","90+","Medical","Expenditures","year_2009_2010",38762676.03

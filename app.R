@@ -11,7 +11,7 @@ age <- read.csv("data/processed/age.csv")
 
 # Define UI
 ui <- dashboardPage(
-  dashboardHeader(title = "Health Dashboard"),
+  dashboardHeader(title = "PharmaAnalysis"),
   dashboardSidebar(tags$style(".left-side, .main-sidebar { width: 235px }"),
                    sidebarMenu(
                      id = "sidebar",
