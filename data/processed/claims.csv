@@ -1,0 +1,421 @@
+"plan","feature","year","value"
+"Plan B","Number Of Claims Millions","year_2005_2006",1.6
+"Plan B","Number Of Claims Millions","year_2006_2007",1.9
+"Plan B","Number Of Claims Millions","year_2007_2008",2.57
+"Plan B","Number Of Claims Millions","year_2008_2009",3.28
+"Plan B","Number Of Claims Millions","year_2009_2010",3.72
+"Plan B","Number Of Beneficiaries Millions","year_2005_2006",0.02
+"Plan B","Number Of Beneficiaries Millions","year_2006_2007",0.02
+"Plan B","Number Of Beneficiaries Millions","year_2007_2008",0.03
+"Plan B","Number Of Beneficiaries Millions","year_2008_2009",0.03
+"Plan B","Number Of Beneficiaries Millions","year_2009_2010",0.03
+"Plan B","Ingredient Costs Paid Millions","year_2005_2006",32.48
+"Plan B","Ingredient Costs Paid Millions","year_2006_2007",32.82
+"Plan B","Ingredient Costs Paid Millions","year_2007_2008",33.42
+"Plan B","Ingredient Costs Paid Millions","year_2008_2009",35.26
+"Plan B","Ingredient Costs Paid Millions","year_2009_2010",37.59
+"Plan B","Professional Fees Paid Millions","year_2005_2006",6.72
+"Plan B","Professional Fees Paid Millions","year_2006_2007",8.15
+"Plan B","Professional Fees Paid Millions","year_2007_2008",8.15
+"Plan B","Professional Fees Paid Millions","year_2008_2009",8.58
+"Plan B","Professional Fees Paid Millions","year_2009_2010",8.96
+"Plan B","Total Amount Paid Millions","year_2005_2006",39.2
+"Plan B","Total Amount Paid Millions","year_2006_2007",40.98
+"Plan B","Total Amount Paid Millions","year_2007_2008",41.57
+"Plan B","Total Amount Paid Millions","year_2008_2009",43.84
+"Plan B","Total Amount Paid Millions","year_2009_2010",46.55
+"Plan B","Avg Number Of Claims Per Beneficiary","year_2005_2006",66.14
+"Plan B","Avg Number Of Claims Per Beneficiary","year_2006_2007",77.94
+"Plan B","Avg Number Of Claims Per Beneficiary","year_2007_2008",101.85
+"Plan B","Avg Number Of Claims Per Beneficiary","year_2008_2009",122.31
+"Plan B","Avg Number Of Claims Per Beneficiary","year_2009_2010",135
+"Plan B","Avg Total Paid Cost Per Beneficiary","year_2005_2006",1622.63
+"Plan B","Avg Total Paid Cost Per Beneficiary","year_2006_2007",1678.77
+"Plan B","Avg Total Paid Cost Per Beneficiary","year_2007_2008",1646.95
+"Plan B","Avg Total Paid Cost Per Beneficiary","year_2008_2009",1634.41
+"Plan B","Avg Total Paid Cost Per Beneficiary","year_2009_2010",1688.64
+"Plan B","Avg Professional Fees Paid Per Claim","year_2005_2006",4.21
+"Plan B","Avg Professional Fees Paid Per Claim","year_2006_2007",4.29
+"Plan B","Avg Professional Fees Paid Per Claim","year_2007_2008",3.17
+"Plan B","Avg Professional Fees Paid Per Claim","year_2008_2009",2.62
+"Plan B","Avg Professional Fees Paid Per Claim","year_2009_2010",2.41
+"Plan B","Avg Ingredient Cost Paid Per Claim","year_2005_2006",20.33
+"Plan B","Avg Ingredient Cost Paid Per Claim","year_2006_2007",17.25
+"Plan B","Avg Ingredient Cost Paid Per Claim","year_2007_2008",13
+"Plan B","Avg Ingredient Cost Paid Per Claim","year_2008_2009",10.75
+"Plan B","Avg Ingredient Cost Paid Per Claim","year_2009_2010",10.1
+"Plan B","Avg Total Amount Paid Per Claim","year_2005_2006",24.53
+"Plan B","Avg Total Amount Paid Per Claim","year_2006_2007",21.54
+"Plan B","Avg Total Amount Paid Per Claim","year_2007_2008",16.17
+"Plan B","Avg Total Amount Paid Per Claim","year_2008_2009",13.36
+"Plan B","Avg Total Amount Paid Per Claim","year_2009_2010",12.51
+"Plan B","Avg Day Supply Per Claim","year_2005_2006",21.54
+"Plan B","Avg Day Supply Per Claim","year_2006_2007",18.4
+"Plan B","Avg Day Supply Per Claim","year_2007_2008",14.04
+"Plan B","Avg Day Supply Per Claim","year_2008_2009",11.49
+"Plan B","Avg Day Supply Per Claim","year_2009_2010",10.61
+"Plan C","Number Of Claims Millions","year_2005_2006",6.72
+"Plan C","Number Of Claims Millions","year_2006_2007",7.32
+"Plan C","Number Of Claims Millions","year_2007_2008",8.16
+"Plan C","Number Of Claims Millions","year_2008_2009",8.99
+"Plan C","Number Of Claims Millions","year_2009_2010",9.31
+"Plan C","Number Of Beneficiaries Millions","year_2005_2006",0.15
+"Plan C","Number Of Beneficiaries Millions","year_2006_2007",0.15
+"Plan C","Number Of Beneficiaries Millions","year_2007_2008",0.15
+"Plan C","Number Of Beneficiaries Millions","year_2008_2009",0.16
+"Plan C","Number Of Beneficiaries Millions","year_2009_2010",0.17
+"Plan C","Ingredient Costs Paid Millions","year_2005_2006",164.44
+"Plan C","Ingredient Costs Paid Millions","year_2006_2007",169.82
+"Plan C","Ingredient Costs Paid Millions","year_2007_2008",177.24
+"Plan C","Ingredient Costs Paid Millions","year_2008_2009",190.61
+"Plan C","Ingredient Costs Paid Millions","year_2009_2010",207.26
+"Plan C","Professional Fees Paid Millions","year_2005_2006",55.55
+"Plan C","Professional Fees Paid Millions","year_2006_2007",60.92
+"Plan C","Professional Fees Paid Millions","year_2007_2008",68.52
+"Plan C","Professional Fees Paid Millions","year_2008_2009",74.97
+"Plan C","Professional Fees Paid Millions","year_2009_2010",70.63
+"Plan C","Total Amount Paid Millions","year_2005_2006",219.99
+"Plan C","Total Amount Paid Millions","year_2006_2007",230.75
+"Plan C","Total Amount Paid Millions","year_2007_2008",245.76
+"Plan C","Total Amount Paid Millions","year_2008_2009",265.58
+"Plan C","Total Amount Paid Millions","year_2009_2010",277.9
+"Plan C","Avg Number Of Claims Per Beneficiary","year_2005_2006",44.49
+"Plan C","Avg Number Of Claims Per Beneficiary","year_2006_2007",50.32
+"Plan C","Avg Number Of Claims Per Beneficiary","year_2007_2008",55.41
+"Plan C","Avg Number Of Claims Per Beneficiary","year_2008_2009",57.84
+"Plan C","Avg Number Of Claims Per Beneficiary","year_2009_2010",54.51
+"Plan C","Avg Total Paid Cost Per Beneficiary","year_2005_2006",1457.44
+"Plan C","Avg Total Paid Cost Per Beneficiary","year_2006_2007",1586.86
+"Plan C","Avg Total Paid Cost Per Beneficiary","year_2007_2008",1669.53
+"Plan C","Avg Total Paid Cost Per Beneficiary","year_2008_2009",1709.58
+"Plan C","Avg Total Paid Cost Per Beneficiary","year_2009_2010",1627.59
+"Plan C","Avg Professional Fees Paid Per Claim","year_2005_2006",8.27
+"Plan C","Avg Professional Fees Paid Per Claim","year_2006_2007",8.33
+"Plan C","Avg Professional Fees Paid Per Claim","year_2007_2008",8.4
+"Plan C","Avg Professional Fees Paid Per Claim","year_2008_2009",8.34
+"Plan C","Avg Professional Fees Paid Per Claim","year_2009_2010",7.59
+"Plan C","Avg Ingredient Cost Paid Per Claim","year_2005_2006",24.49
+"Plan C","Avg Ingredient Cost Paid Per Claim","year_2006_2007",23.21
+"Plan C","Avg Ingredient Cost Paid Per Claim","year_2007_2008",21.73
+"Plan C","Avg Ingredient Cost Paid Per Claim","year_2008_2009",21.21
+"Plan C","Avg Ingredient Cost Paid Per Claim","year_2009_2010",22.27
+"Plan C","Avg Total Amount Paid Per Claim","year_2005_2006",32.76
+"Plan C","Avg Total Amount Paid Per Claim","year_2006_2007",31.54
+"Plan C","Avg Total Amount Paid Per Claim","year_2007_2008",30.13
+"Plan C","Avg Total Amount Paid Per Claim","year_2008_2009",29.56
+"Plan C","Avg Total Amount Paid Per Claim","year_2009_2010",29.86
+"Plan C","Avg Day Supply Per Claim","year_2005_2006",17.02
+"Plan C","Avg Day Supply Per Claim","year_2006_2007",15.86
+"Plan C","Avg Day Supply Per Claim","year_2007_2008",14.84
+"Plan C","Avg Day Supply Per Claim","year_2008_2009",14.11
+"Plan C","Avg Day Supply Per Claim","year_2009_2010",14.71
+"Plan D","Number Of Claims","year_2005_2006",1565
+"Plan D","Number Of Claims","year_2006_2007",1547
+"Plan D","Number Of Claims","year_2007_2008",1724
+"Plan D","Number Of Claims","year_2008_2009",1788
+"Plan D","Number Of Claims","year_2009_2010",1779
+"Plan D","Number Of Claims Millions","year_2005_2006",0.001565
+"Plan D","Number Of Claims Millions","year_2006_2007",0.001547
+"Plan D","Number Of Claims Millions","year_2007_2008",0.001724
+"Plan D","Number Of Claims Millions","year_2008_2009",0.001788
+"Plan D","Number Of Claims Millions","year_2009_2010",0.001779
+"Plan D","Number Of Beneficiaries","year_2005_2006",274
+"Plan D","Number Of Beneficiaries","year_2006_2007",280
+"Plan D","Number Of Beneficiaries","year_2007_2008",277
+"Plan D","Number Of Beneficiaries","year_2008_2009",275
+"Plan D","Number Of Beneficiaries","year_2009_2010",282
+"Plan D","Number Of Beneficiaries Millions","year_2005_2006",0.000274
+"Plan D","Number Of Beneficiaries Millions","year_2006_2007",0.00028
+"Plan D","Number Of Beneficiaries Millions","year_2007_2008",0.000277
+"Plan D","Number Of Beneficiaries Millions","year_2008_2009",0.000275
+"Plan D","Number Of Beneficiaries Millions","year_2009_2010",0.000282
+"Plan D","Ingredient Costs Paid Millions","year_2005_2006",0.84
+"Plan D","Ingredient Costs Paid Millions","year_2006_2007",0.88
+"Plan D","Ingredient Costs Paid Millions","year_2007_2008",1
+"Plan D","Ingredient Costs Paid Millions","year_2008_2009",1
+"Plan D","Ingredient Costs Paid Millions","year_2009_2010",1.11
+"Plan D","Professional Fees Paid","year_2005_2006",12977
+"Plan D","Professional Fees Paid","year_2006_2007",12881
+"Plan D","Professional Fees Paid","year_2007_2008",14578
+"Plan D","Professional Fees Paid","year_2008_2009",15154
+"Plan D","Professional Fees Paid","year_2009_2010",14904
+"Plan D","Professional Fees Paid","year_2005_2006",0.012977
+"Plan D","Professional Fees Paid","year_2006_2007",0.012881
+"Plan D","Professional Fees Paid","year_2007_2008",0.014578
+"Plan D","Professional Fees Paid","year_2008_2009",0.015154
+"Plan D","Professional Fees Paid","year_2009_2010",0.014904
+"Plan D","Total Amount Paid Millions","year_2005_2006",0.85
+"Plan D","Total Amount Paid Millions","year_2006_2007",0.89
+"Plan D","Total Amount Paid Millions","year_2007_2008",1.01
+"Plan D","Total Amount Paid Millions","year_2008_2009",1.01
+"Plan D","Total Amount Paid Millions","year_2009_2010",1.12
+"Plan D","Avg Number Of Claims Per Beneficiary","year_2005_2006",5.71
+"Plan D","Avg Number Of Claims Per Beneficiary","year_2006_2007",5.53
+"Plan D","Avg Number Of Claims Per Beneficiary","year_2007_2008",6.22
+"Plan D","Avg Number Of Claims Per Beneficiary","year_2008_2009",6.5
+"Plan D","Avg Number Of Claims Per Beneficiary","year_2009_2010",6.31
+"Plan D","Avg Total Paid Cost Per Beneficiary","year_2005_2006",3103.87
+"Plan D","Avg Total Paid Cost Per Beneficiary","year_2006_2007",3184.64
+"Plan D","Avg Total Paid Cost Per Beneficiary","year_2007_2008",3650.65
+"Plan D","Avg Total Paid Cost Per Beneficiary","year_2008_2009",3679.03
+"Plan D","Avg Total Paid Cost Per Beneficiary","year_2009_2010",3977.92
+"Plan D","Avg Professional Fees Paid Per Claim","year_2005_2006",8.29
+"Plan D","Avg Professional Fees Paid Per Claim","year_2006_2007",8.33
+"Plan D","Avg Professional Fees Paid Per Claim","year_2007_2008",8.46
+"Plan D","Avg Professional Fees Paid Per Claim","year_2008_2009",8.48
+"Plan D","Avg Professional Fees Paid Per Claim","year_2009_2010",8.38
+"Plan D","Avg Ingredient Cost Paid Per Claim","year_2005_2006",535.13
+"Plan D","Avg Ingredient Cost Paid Per Claim","year_2006_2007",568.08
+"Plan D","Avg Ingredient Cost Paid Per Claim","year_2007_2008",578.1
+"Plan D","Avg Ingredient Cost Paid Per Claim","year_2008_2009",557.37
+"Plan D","Avg Ingredient Cost Paid Per Claim","year_2009_2010",622.19
+"Plan D","Avg Total Amount Paid Per Claim","year_2005_2006",543.43
+"Plan D","Avg Total Amount Paid Per Claim","year_2006_2007",576.41
+"Plan D","Avg Total Amount Paid Per Claim","year_2007_2008",586.56
+"Plan D","Avg Total Amount Paid Per Claim","year_2008_2009",565.85
+"Plan D","Avg Total Amount Paid Per Claim","year_2009_2010",630.56
+"Plan D","Avg Day Supply Per Claim","year_2005_2006",46.71
+"Plan D","Avg Day Supply Per Claim","year_2006_2007",47.4
+"Plan D","Avg Day Supply Per Claim","year_2007_2008",43.2
+"Plan D","Avg Day Supply Per Claim","year_2008_2009",40.18
+"Plan D","Avg Day Supply Per Claim","year_2009_2010",41.53
+"Plan F","Number Of Claims","year_2005_2006",33852
+"Plan F","Number Of Claims","year_2006_2007",36546
+"Plan F","Number Of Claims","year_2007_2008",38389
+"Plan F","Number Of Claims","year_2008_2009",39574
+"Plan F","Number Of Claims","year_2009_2010",39598
+"Plan F","Number Of Claims Millions","year_2005_2006",0.033852
+"Plan F","Number Of Claims Millions","year_2006_2007",0.036546
+"Plan F","Number Of Claims Millions","year_2007_2008",0.038389
+"Plan F","Number Of Claims Millions","year_2008_2009",0.039574
+"Plan F","Number Of Claims Millions","year_2009_2010",0.039598
+"Plan F","Number Of Beneficiaries","year_2005_2006",2287
+"Plan F","Number Of Beneficiaries","year_2006_2007",2328
+"Plan F","Number Of Beneficiaries","year_2007_2008",2390
+"Plan F","Number Of Beneficiaries","year_2008_2009",2441
+"Plan F","Number Of Beneficiaries","year_2009_2010",2490
+"Plan F","Number Of Beneficiaries","year_2005_2006",0.002287
+"Plan F","Number Of Beneficiaries","year_2006_2007",0.002328
+"Plan F","Number Of Beneficiaries","year_2007_2008",0.00239
+"Plan F","Number Of Beneficiaries","year_2008_2009",0.002441
+"Plan F","Number Of Beneficiaries","year_2009_2010",0.00249
+"Plan F","Ingredient Costs Paid Millions","year_2005_2006",3.75
+"Plan F","Ingredient Costs Paid Millions","year_2006_2007",3.85
+"Plan F","Ingredient Costs Paid Millions","year_2007_2008",3.96
+"Plan F","Ingredient Costs Paid Millions","year_2008_2009",3.92
+"Plan F","Ingredient Costs Paid Millions","year_2009_2010",4.22
+"Plan F","Professional Fees Paid Millions","year_2005_2006",0.27
+"Plan F","Professional Fees Paid Millions","year_2006_2007",0.29
+"Plan F","Professional Fees Paid Millions","year_2007_2008",0.31
+"Plan F","Professional Fees Paid Millions","year_2008_2009",0.33
+"Plan F","Professional Fees Paid Millions","year_2009_2010",0.32
+"Plan F","Total Amount Paid Millions","year_2005_2006",4.02
+"Plan F","Total Amount Paid Millions","year_2006_2007",4.15
+"Plan F","Total Amount Paid Millions","year_2007_2008",4.27
+"Plan F","Total Amount Paid Millions","year_2008_2009",4.25
+"Plan F","Total Amount Paid Millions","year_2009_2010",4.54
+"Plan F","Avg Number Of Claims Per Beneficiary","year_2005_2006",14.8
+"Plan F","Avg Number Of Claims Per Beneficiary","year_2006_2007",15.7
+"Plan F","Avg Number Of Claims Per Beneficiary","year_2007_2008",16.06
+"Plan F","Avg Number Of Claims Per Beneficiary","year_2008_2009",16.21
+"Plan F","Avg Number Of Claims Per Beneficiary","year_2009_2010",15.9
+"Plan F","Avg Total Paid Cost Per Beneficiary","year_2005_2006",1755.65
+"Plan F","Avg Total Paid Cost Per Beneficiary","year_2006_2007",1781.22
+"Plan F","Avg Total Paid Cost Per Beneficiary","year_2007_2008",1787.5
+"Plan F","Avg Total Paid Cost Per Beneficiary","year_2008_2009",1739.79
+"Plan F","Avg Total Paid Cost Per Beneficiary","year_2009_2010",1825.07
+"Plan F","Avg Professional Fees Paid Per Claim","year_2005_2006",7.95
+"Plan F","Avg Professional Fees Paid Per Claim","year_2006_2007",8.03
+"Plan F","Avg Professional Fees Paid Per Claim","year_2007_2008",8.18
+"Plan F","Avg Professional Fees Paid Per Claim","year_2008_2009",8.21
+"Plan F","Avg Professional Fees Paid Per Claim","year_2009_2010",8.11
+"Plan F","Avg Ingredient Cost Paid Per Claim","year_2005_2006",110.66
+"Plan F","Avg Ingredient Cost Paid Per Claim","year_2006_2007",105.43
+"Plan F","Avg Ingredient Cost Paid Per Claim","year_2007_2008",103.11
+"Plan F","Avg Ingredient Cost Paid Per Claim","year_2008_2009",99.1
+"Plan F","Avg Ingredient Cost Paid Per Claim","year_2009_2010",106.65
+"Plan F","Avg Total Amount Paid Per Claim","year_2005_2006",118.61
+"Plan F","Avg Total Amount Paid Per Claim","year_2006_2007",113.46
+"Plan F","Avg Total Amount Paid Per Claim","year_2007_2008",111.29
+"Plan F","Avg Total Amount Paid Per Claim","year_2008_2009",107.31
+"Plan F","Avg Total Amount Paid Per Claim","year_2009_2010",114.76
+"Plan F","Avg Day Supply Per Claim","year_2005_2006",31.81
+"Plan F","Avg Day Supply Per Claim","year_2006_2007",30.87
+"Plan F","Avg Day Supply Per Claim","year_2007_2008",30.37
+"Plan F","Avg Day Supply Per Claim","year_2008_2009",29.98
+"Plan F","Avg Day Supply Per Claim","year_2009_2010",30.79
+"Plan G","Number Of Claims Millions","year_2005_2006",0.43
+"Plan G","Number Of Claims Millions","year_2006_2007",0.47
+"Plan G","Number Of Claims Millions","year_2007_2008",0.5
+"Plan G","Number Of Claims Millions","year_2008_2009",0.53
+"Plan G","Number Of Claims Millions","year_2009_2010",0.54
+"Plan G","Number Of Beneficiaries Millions","year_2005_2006",0.02
+"Plan G","Number Of Beneficiaries Millions","year_2006_2007",0.02
+"Plan G","Number Of Beneficiaries Millions","year_2007_2008",0.02
+"Plan G","Number Of Beneficiaries Millions","year_2008_2009",0.02
+"Plan G","Number Of Beneficiaries Millions","year_2009_2010",0.02
+"Plan G","Ingredient Costs Paid Millions","year_2005_2006",17
+"Plan G","Ingredient Costs Paid Millions","year_2006_2007",17.51
+"Plan G","Ingredient Costs Paid Millions","year_2007_2008",16.91
+"Plan G","Ingredient Costs Paid Millions","year_2008_2009",17.45
+"Plan G","Ingredient Costs Paid Millions","year_2009_2010",18.05
+"Plan G","Professional Fees Paid Millions","year_2005_2006",3.57
+"Plan G","Professional Fees Paid Millions","year_2006_2007",3.94
+"Plan G","Professional Fees Paid Millions","year_2007_2008",4.24
+"Plan G","Professional Fees Paid Millions","year_2008_2009",4.44
+"Plan G","Professional Fees Paid Millions","year_2009_2010",4.32
+"Plan G","Total Amount Paid Millions","year_2005_2006",20.57
+"Plan G","Total Amount Paid Millions","year_2006_2007",21.44
+"Plan G","Total Amount Paid Millions","year_2007_2008",21.15
+"Plan G","Total Amount Paid Millions","year_2008_2009",21.89
+"Plan G","Total Amount Paid Millions","year_2009_2010",22.37
+"Plan G","Avg Number Of Claims Per Beneficiary","year_2005_2006",20.02
+"Plan G","Avg Number Of Claims Per Beneficiary","year_2006_2007",21.34
+"Plan G","Avg Number Of Claims Per Beneficiary","year_2007_2008",23.35
+"Plan G","Avg Number Of Claims Per Beneficiary","year_2008_2009",23.87
+"Plan G","Avg Number Of Claims Per Beneficiary","year_2009_2010",22.86
+"Plan G","Avg Total Paid Cost Per Beneficiary","year_2005_2006",954.08
+"Plan G","Avg Total Paid Cost Per Beneficiary","year_2006_2007",970.77
+"Plan G","Avg Total Paid Cost Per Beneficiary","year_2007_2008",981.3
+"Plan G","Avg Total Paid Cost Per Beneficiary","year_2008_2009",993.24
+"Plan G","Avg Total Paid Cost Per Beneficiary","year_2009_2010",943.43
+"Plan G","Avg Professional Fees Paid Per Claim","year_2005_2006",8.28
+"Plan G","Avg Professional Fees Paid Per Claim","year_2006_2007",8.35
+"Plan G","Avg Professional Fees Paid Per Claim","year_2007_2008",8.42
+"Plan G","Avg Professional Fees Paid Per Claim","year_2008_2009",8.44
+"Plan G","Avg Professional Fees Paid Per Claim","year_2009_2010",7.97
+"Plan G","Avg Ingredient Cost Paid Per Claim","year_2005_2006",39.38
+"Plan G","Avg Ingredient Cost Paid Per Claim","year_2006_2007",37.14
+"Plan G","Avg Ingredient Cost Paid Per Claim","year_2007_2008",33.61
+"Plan G","Avg Ingredient Cost Paid Per Claim","year_2008_2009",33.18
+"Plan G","Avg Ingredient Cost Paid Per Claim","year_2009_2010",33.3
+"Plan G","Avg Total Amount Paid Per Claim","year_2005_2006",47.66
+"Plan G","Avg Total Amount Paid Per Claim","year_2006_2007",45.49
+"Plan G","Avg Total Amount Paid Per Claim","year_2007_2008",42.03
+"Plan G","Avg Total Amount Paid Per Claim","year_2008_2009",41.61
+"Plan G","Avg Total Amount Paid Per Claim","year_2009_2010",41.27
+"Plan G","Avg Day Supply Per Claim","year_2005_2006",24.64
+"Plan G","Avg Day Supply Per Claim","year_2006_2007",23.7
+"Plan G","Avg Day Supply Per Claim","year_2007_2008",22.88
+"Plan G","Avg Day Supply Per Claim","year_2008_2009",22.32
+"Plan G","Avg Day Supply Per Claim","year_2009_2010",23.23
+"Plan I","Number Of Claims Millions","year_2005_2006",11.15
+"Plan I","Number Of Claims Millions","year_2006_2007",11.83
+"Plan I","Number Of Claims Millions","year_2007_2008",12.49
+"Plan I","Number Of Claims Millions","year_2008_2009",12.97
+"Plan I","Number Of Claims Millions","year_2009_2010",12.71
+"Plan I","Number Of Beneficiaries Millions","year_2005_2006",0.65
+"Plan I","Number Of Beneficiaries Millions","year_2006_2007",0.63
+"Plan I","Number Of Beneficiaries Millions","year_2007_2008",0.61
+"Plan I","Number Of Beneficiaries Millions","year_2008_2009",0.58
+"Plan I","Number Of Beneficiaries Millions","year_2009_2010",0.57
+"Plan I","Ingredient Costs Paid Millions","year_2005_2006",419.15
+"Plan I","Ingredient Costs Paid Millions","year_2006_2007",438.43
+"Plan I","Ingredient Costs Paid Millions","year_2007_2008",448.17
+"Plan I","Ingredient Costs Paid Millions","year_2008_2009",464.1
+"Plan I","Ingredient Costs Paid Millions","year_2009_2010",489.02
+"Plan I","Professional Fees Paid Millions","year_2005_2006",75.29
+"Plan I","Professional Fees Paid Millions","year_2006_2007",81.47
+"Plan I","Professional Fees Paid Millions","year_2007_2008",87.36
+"Plan I","Professional Fees Paid Millions","year_2008_2009",91.49
+"Plan I","Professional Fees Paid Millions","year_2009_2010",83.33
+"Plan I","Total Amount Paid Millions","year_2005_2006",494.44
+"Plan I","Total Amount Paid Millions","year_2006_2007",519.91
+"Plan I","Total Amount Paid Millions","year_2007_2008",535.53
+"Plan I","Total Amount Paid Millions","year_2008_2009",555.59
+"Plan I","Total Amount Paid Millions","year_2009_2010",572.35
+"Plan I","Avg Number Of Claims Per Beneficiary","year_2005_2006",17.19
+"Plan I","Avg Number Of Claims Per Beneficiary","year_2006_2007",18.76
+"Plan I","Avg Number Of Claims Per Beneficiary","year_2007_2008",20.39
+"Plan I","Avg Number Of Claims Per Beneficiary","year_2008_2009",22.17
+"Plan I","Avg Number Of Claims Per Beneficiary","year_2009_2010",22.15
+"Plan I","Avg Total Paid Cost Per Beneficiary","year_2005_2006",762.22
+"Plan I","Avg Total Paid Cost Per Beneficiary","year_2006_2007",824.32
+"Plan I","Avg Total Paid Cost Per Beneficiary","year_2007_2008",874.46
+"Plan I","Avg Total Paid Cost Per Beneficiary","year_2008_2009",949.89
+"Plan I","Avg Total Paid Cost Per Beneficiary","year_2009_2010",997.44
+"Plan I","Avg Professional Fees Paid Per Claim","year_2005_2006",6.75
+"Plan I","Avg Professional Fees Paid Per Claim","year_2006_2007",6.89
+"Plan I","Avg Professional Fees Paid Per Claim","year_2007_2008",6.99
+"Plan I","Avg Professional Fees Paid Per Claim","year_2008_2009",7.05
+"Plan I","Avg Professional Fees Paid Per Claim","year_2009_2010",6.56
+"Plan I","Avg Ingredient Cost Paid Per Claim","year_2005_2006",37.58
+"Plan I","Avg Ingredient Cost Paid Per Claim","year_2006_2007",37.05
+"Plan I","Avg Ingredient Cost Paid Per Claim","year_2007_2008",35.88
+"Plan I","Avg Ingredient Cost Paid Per Claim","year_2008_2009",35.78
+"Plan I","Avg Ingredient Cost Paid Per Claim","year_2009_2010",38.47
+"Plan I","Avg Total Amount Paid Per Claim","year_2005_2006",44.33
+"Plan I","Avg Total Amount Paid Per Claim","year_2006_2007",43.94
+"Plan I","Avg Total Amount Paid Per Claim","year_2007_2008",42.88
+"Plan I","Avg Total Amount Paid Per Claim","year_2008_2009",42.84
+"Plan I","Avg Total Amount Paid Per Claim","year_2009_2010",45.03
+"Plan I","Avg Day Supply Per Claim","year_2005_2006",40.65
+"Plan I","Avg Day Supply Per Claim","year_2006_2007",38.74
+"Plan I","Avg Day Supply Per Claim","year_2007_2008",36.85
+"Plan I","Avg Day Supply Per Claim","year_2008_2009",34.76
+"Plan I","Avg Day Supply Per Claim","year_2009_2010",35.4
+"Plan P","Number Of Claims","year_2005_2006",262986
+"Plan P","Number Of Claims","year_2006_2007",292752
+"Plan P","Number Of Claims","year_2007_2008",315583
+"Plan P","Number Of Claims","year_2008_2009",341315
+"Plan P","Number Of Claims","year_2009_2010",366745
+"Plan P","Number Of Claims Millions","year_2005_2006",0.262986
+"Plan P","Number Of Claims Millions","year_2006_2007",0.292752
+"Plan P","Number Of Claims Millions","year_2007_2008",0.315583
+"Plan P","Number Of Claims Millions","year_2008_2009",0.341315
+"Plan P","Number Of Claims Millions","year_2009_2010",0.366745
+"Plan P","Number Of Beneficiaries","year_2005_2006",9481
+"Plan P","Number Of Beneficiaries","year_2006_2007",8466
+"Plan P","Number Of Beneficiaries","year_2007_2008",8895
+"Plan P","Number Of Beneficiaries","year_2008_2009",9179
+"Plan P","Number Of Beneficiaries","year_2009_2010",9862
+"Plan P","Number Of Beneficiaries Millions","year_2005_2006",0.009481
+"Plan P","Number Of Beneficiaries Millions","year_2006_2007",0.008466
+"Plan P","Number Of Beneficiaries Millions","year_2007_2008",0.008895
+"Plan P","Number Of Beneficiaries Millions","year_2008_2009",0.009179
+"Plan P","Number Of Beneficiaries Millions","year_2009_2010",0.009862
+"Plan P","Ingredient Costs Paid Millions","year_2005_2006",9.26
+"Plan P","Ingredient Costs Paid Millions","year_2006_2007",9.69
+"Plan P","Ingredient Costs Paid Millions","year_2007_2008",9.85
+"Plan P","Ingredient Costs Paid Millions","year_2008_2009",10.82
+"Plan P","Ingredient Costs Paid Millions","year_2009_2010",12.11
+"Plan P","Professional Fees Paid Millions","year_2005_2006",2.13
+"Plan P","Professional Fees Paid Millions","year_2006_2007",2.39
+"Plan P","Professional Fees Paid Millions","year_2007_2008",2.6
+"Plan P","Professional Fees Paid Millions","year_2008_2009",2.81
+"Plan P","Professional Fees Paid Millions","year_2009_2010",2.75
+"Plan P","Total Amount Paid Millions","year_2005_2006",11.39
+"Plan P","Total Amount Paid Millions","year_2006_2007",12.08
+"Plan P","Total Amount Paid Millions","year_2007_2008",12.45
+"Plan P","Total Amount Paid Millions","year_2008_2009",13.64
+"Plan P","Total Amount Paid Millions","year_2009_2010",14.86
+"Plan P","Avg Number Of Claims Per Beneficiary","year_2005_2006",27.74
+"Plan P","Avg Number Of Claims Per Beneficiary","year_2006_2007",34.58
+"Plan P","Avg Number Of Claims Per Beneficiary","year_2007_2008",35.48
+"Plan P","Avg Number Of Claims Per Beneficiary","year_2008_2009",37.18
+"Plan P","Avg Number Of Claims Per Beneficiary","year_2009_2010",37.19
+"Plan P","Avg Total Paid Cost Per Beneficiary","year_2005_2006",1201.55
+"Plan P","Avg Total Paid Cost Per Beneficiary","year_2006_2007",1427.35
+"Plan P","Avg Total Paid Cost Per Beneficiary","year_2007_2008",1400.16
+"Plan P","Avg Total Paid Cost Per Beneficiary","year_2008_2009",1485.47
+"Plan P","Avg Total Paid Cost Per Beneficiary","year_2009_2010",1507.18
+"Plan P","Avg Professional Fees Paid Per Claim","year_2005_2006",8.1
+"Plan P","Avg Professional Fees Paid Per Claim","year_2006_2007",8.18
+"Plan P","Avg Professional Fees Paid Per Claim","year_2007_2008",8.25
+"Plan P","Avg Professional Fees Paid Per Claim","year_2008_2009",8.25
+"Plan P","Avg Professional Fees Paid Per Claim","year_2009_2010",7.51
+"Plan P","Avg Ingredient Cost Paid Per Claim","year_2005_2006",35.21
+"Plan P","Avg Ingredient Cost Paid Per Claim","year_2006_2007",33.1
+"Plan P","Avg Ingredient Cost Paid Per Claim","year_2007_2008",31.21
+"Plan P","Avg Ingredient Cost Paid Per Claim","year_2008_2009",31.7
+"Plan P","Avg Ingredient Cost Paid Per Claim","year_2009_2010",33.02
+"Plan P","Avg Total Amount Paid Per Claim","year_2005_2006",43.32
+"Plan P","Avg Total Amount Paid Per Claim","year_2006_2007",41.28
+"Plan P","Avg Total Amount Paid Per Claim","year_2007_2008",39.46
+"Plan P","Avg Total Amount Paid Per Claim","year_2008_2009",39.95
+"Plan P","Avg Total Amount Paid Per Claim","year_2009_2010",40.53
+"Plan P","Avg Day Supply Per Claim","year_2005_2006",16.58
+"Plan P","Avg Day Supply Per Claim","year_2006_2007",15.92
+"Plan P","Avg Day Supply Per Claim","year_2007_2008",15.51
+"Plan P","Avg Day Supply Per Claim","year_2008_2009",15.19
+"Plan P","Avg Day Supply Per Claim","year_2009_2010",15.57
