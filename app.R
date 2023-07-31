@@ -11,7 +11,7 @@ age <- read.csv("data/processed/age.csv")
 
 # Define UI
 ui <- dashboardPage(
-  dashboardHeader(title = "PharmaAnalysis"),
+  dashboardHeader(title = "HealthAnalysis"),
   dashboardSidebar(tags$style(".left-side, .main-sidebar { width: 235px }"),
                    sidebarMenu(
                      id = "sidebar",
@@ -24,13 +24,13 @@ ui <- dashboardPage(
                      # Add checkbox input for selecting plan
                      checkboxGroupInput(
                        "plan", 
-                       "Plan",
+                       "Select PharmaCare Plan",
                        choices = c("Plan I", "Plan B", "Plan C", "Plan D", "Plan F", "Plan G", "Plan P"),
                        selected = c("Plan I")
                      ),
                      radioButtons(
                        "service",
-                       "Select Service:",
+                       "Select MSP Service:",
                        choices = c("Medical", "Other Health Practioners"),
                        selected = "Medical"
                      )
@@ -81,7 +81,7 @@ server <- function(input, output, session) {
   output$summaryTitle <- renderText({
     # Format the input$year to display as "Year 2013-2014"
     year_range <- gsub("year_(\\d+)_(\\d+)", "Year \\1-\\2", input$year)
-    paste("Summary Statistics in", year_range)
+    paste("Summary Statistics of All PharamaCare Plans in", year_range)
   })
   
   # Data processing for summary statistics
@@ -135,7 +135,7 @@ server <- function(input, output, session) {
     # Create the bar chart
     p <- ggplot(filtered_data, aes(x = feature, y = amount, fill = plan)) +
       geom_bar(stat = "identity", position = "dodge") +
-      labs(x = "Feature", y = "Amount", title = "The Value Amount of Each Plan in This Year") +
+      labs(x = "Feature", y = "Amount", title = paste0(input$year,": The Summary Statistics of Each PharmaCare Plan")) +
       theme_minimal()
     
     # Convert ggplot to plotly for interactivity
@@ -160,7 +160,7 @@ server <- function(input, output, session) {
             values = ~percentage, type = 'pie',
             textinfo = "label+percent", textposition = "inside",
             insidetextorientation = "radial") %>%
-      layout(title = "Percentage of Patients in Each Age Group in This Year",
+      layout(title = paste0(input$year,": Percentage of MSP Patients in Each Age Group"),
              showlegend = FALSE)
   })
   
@@ -181,7 +181,7 @@ server <- function(input, output, session) {
             values = ~percentage, type = 'pie',
             textinfo = "label+percent", textposition = "inside",
             insidetextorientation = "radial") %>%
-      layout(title = "Percentage of Expenditures in Each Age Group in This Year",
+      layout(title = paste0(input$year,": Percentage of MSP Expenditures in Each Age Group"),
              showlegend = FALSE)
   })
 }
